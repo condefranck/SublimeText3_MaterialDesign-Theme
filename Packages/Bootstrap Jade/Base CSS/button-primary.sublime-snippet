@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+button.btn.btn-primary(type="submit") ${1:Button}
+]]></content>
+	<tabTrigger>bjbutton:p</tabTrigger>
+	<description>Bootstrap primary button</description>
+	<scope>source.jade</scope>
+</snippet>

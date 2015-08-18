@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+span.badge.badge-info ${1:8}
+]]></content>
+	<tabTrigger>bjbadge:if</tabTrigger>
+	<description>Bootstrap info badge</description>
+	<scope>source.jade</scope>
+</snippet>

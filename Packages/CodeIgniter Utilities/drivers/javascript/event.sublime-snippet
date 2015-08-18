@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->jquery->${1:event}(${2:'$3{element_path}'}, ${4:code_to_run()});
+]]></content>
+	<tabTrigger>cijqevent</tabTrigger>
+	<description>jQuery Event</description>
+</snippet>

@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * Function Name
+ *
+ * Function description
+ *
+ * @access	public
+ * @param	type	name
+ * @return	type	
+ */
+ 
+if (! function_exists('${1:function_name}'))
+{
+	function $1(${2:\$param${3: = ''}})
+	{
+		$0
+	}
+}
+]]></content>
+	<tabTrigger>cihelper</tabTrigger>
+	<description>CodeIgniter Helper</description>
+	<scope>source.php</scope>
+</snippet>

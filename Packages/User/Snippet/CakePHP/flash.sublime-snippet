@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->Session->setFlash("$1","${2:Notif.success}");$3
+]]></content>
+	<tabTrigger>flash</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

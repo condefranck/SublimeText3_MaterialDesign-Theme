@@ -1,0 +1,152 @@
+[
+	{ "keys": ["ctrl+alt+n"], "command": "new_window" },
+
+    // Overlays
+	{ "keys": ["ctrl+o"], "command": "show_overlay", "args": {"overlay": "goto"} },
+    { "keys": ["ctrl+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+
+	{ "keys": ["ctrl+t"], "command": "auto_complete" },
+	{ "keys": ["ctrl+shift+t"], "command": "open_terminal_project_folder" },
+	{ "keys": ["ctrl+shift+o"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
+	{ "keys": ["ctrl+shift+d"], "command": "find_all_under" },
+	{ "keys": ["ctrl+shift+c"], "command": "toggle_comment" },
+    { "keys": ["ctrl+shift+down"], "command": "duplicate_line" },
+    { "keys": ["ctrl+k"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+
+    // Ctrl + e => <?= ?>
+    { "keys": ["ctrl+e"], "command": "insert_snippet", "args": {"contents": "<?= ${1}; ?>${2}"},
+        "context": [{
+          "operand": "text.html",
+          "operator": "equal",
+          "match_all": true,
+          "key": "selector"
+        },{
+          "operand": "source.php",
+          "operator": "not_equal",
+          "match_all": true,
+          "key": "selector"
+        }]
+    },
+
+	// Ctrl + e => <%= %>
+	{ "keys": ["ctrl+e"], "command": "insert_snippet", "args": {"contents": "<%= ${1}; %>${2}"},
+		"context": [{
+          "operand": "text.erb",
+          "operator": "equal",
+          "match_all": true,
+          "key": "selector"
+        },{
+	      "operand": "source.erb",
+	      "operator": "not_equal",
+	      "match_all": true,
+	      "key": "selector"
+	    }]
+	},
+
+
+	/*
+	* Emmet
+	* http://www.sublimetext.com/forum/viewtopic.php?f=2&t=2633
+	**/
+    {
+        "keys": [
+            "ctrl+e"
+        ],
+        "command": "wrap_as_you_type",
+        "context": [
+            {
+                "operand": false,
+                "operator": "equal",
+                "match_all": true,
+                "key": "setting.is_widget"
+            },
+            {
+                "match_all": true,
+                "key": "emmet_action_enabled.wrap_as_you_type"
+            },
+            { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+        ]
+    },
+
+	// Alignment
+    { "keys": ["ctrl+i"], "command": "reindent"},
+	{ "keys": ["ctrl+l"], "command": "alignment" ,  "context":
+		[
+			{ "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+		]
+	},
+
+   {
+        "keys": [
+            "tab"
+        ],
+        "command": "expand_abbreviation_by_tab",
+        "context": [
+            {
+                "operand": "source.css, source.sass, source.less, source.scss, source.stylus, text.xml, text.html, text.haml, text.scala.html, source string, source.php",
+                "operator": "equal",
+                "match_all": true,
+                "key": "selector"
+            },
+            {
+                "operand": "text.html source.js, storage.type.templatetag.django",
+                "operator": "not_equal",
+                "match_all": true,
+                "key": "selector"
+            },
+            {
+                "match_all": true,
+                "key": "selection_empty"
+            },
+            {
+                "operator": "equal",
+                "operand": false,
+                "match_all": true,
+                "key": "has_next_field"
+            },
+            // {
+            //     "operator": "equal",
+            //     "operand": false,
+            //     "match_all": true,
+            //     "key": "setting.disable_tab_abbreviations"
+            // },
+            {
+                "operand": false,
+                "operator": "equal",
+                "match_all": true,
+                "key": "auto_complete_visible"
+            },
+            {
+                "match_all": true,
+                "key": "is_abbreviation"
+            }
+        ]
+    },
+
+	/**
+	* Nettuts Fetch
+	**/
+	{ "keys": ["ctrl+shift+e"], "command": "fetch" },
+
+	/**
+	* Advanced New File
+	**/
+	{ "keys": ["ctrl+m"], "command": "cake_php"},
+
+    /**
+    * Code folding
+    */
+    { "keys": ["ctrl+keypad_minus"], "command": "fold_by_level", "args": {"level": 2} },
+    { "keys": ["ctrl+shift+keypad_minus"], "command": "fold_by_level", "args": {"level": 1} },
+    { "keys": ["ctrl+keypad_plus"], "command": "unfold" },
+
+	/**
+	* Macro SFTP
+	**/
+	{ "keys": ["ctrl+u"], "command": "sftp_upload_file" },
+	{ "keys": ["ctrl+alt+d"], "command": "sftp_download_file" },
+    { "keys": ["f2"], "command": "side_bar_rename" },
+    { "keys": ["ctrl+alt+f"], "command": "side_bar_find_files_path_containing" },
+    { "keys": ["ctrl+n"], "command": "advanced_new_file"}
+
+]

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[@include transition-duration; ]]></content>
+	<tabTrigger>td</tabTrigger>
+	<scope>source.scss</scope>
+</snippet>

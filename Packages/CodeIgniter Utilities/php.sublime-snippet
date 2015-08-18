@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+]]></content>
+	<tabTrigger>ciphp</tabTrigger>
+	<description>CodeIgniter Tag</description>
+</snippet>

@@ -1,0 +1,19 @@
+<snippet>
+	 <content><![CDATA[
+div.btn-toolbar
+	div.btn-group
+		a.btn(href="#") 1
+		a.btn(href="#") 2
+		a.btn(href="#") 3
+		a.btn(href="#") 4
+	div.btn-group
+	  	a.btn(href="#") 5
+	  	a.btn(href="#") 6
+	  	a.btn(href="#") 7
+	div.btn-group
+	  	a.btn(href="#") 8
+]]></content>
+	 <tabTrigger>bjtoolbar</tabTrigger>
+	 <description>Bootstrap toolbar</description>
+	 <scope>source.jade</scope>
+</snippet>

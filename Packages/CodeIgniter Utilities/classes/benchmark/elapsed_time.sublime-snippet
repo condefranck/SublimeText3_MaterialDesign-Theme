@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\$this->benchmark->elapsed_time(${1:'$2', '$3'});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cibenchtime</tabTrigger>
+	<description>Elapsed Time</description>
+	<scope>source.php</scope>
+</snippet>

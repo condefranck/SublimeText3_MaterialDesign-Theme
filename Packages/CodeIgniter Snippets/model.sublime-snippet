@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class ${1:${TM_FILENAME/(.+)\..+|.*/\u$1/:ModelName}} extends ${2:CI}_Model {
+
+	$0
+
+}
+
+/* End of file ${TM_FILENAME:${1/(.+)/\l$1.php/}} */
+/* Location: ./${TM_FILEPATH/.+((?:application).+)/$1/:application/models/${1/(.+)/\l$1.php/}} */
+]]></content>
+	<tabTrigger>model</tabTrigger>
+	<scope>source.php, text.html.basic, text.plain</scope>
+	<description>CI - Base Model</description>
+</snippet>

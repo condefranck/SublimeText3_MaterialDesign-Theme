@@ -1,0 +1,1 @@
+{"description": "Laravel Blade syntax highlighter support for Sublime Text.", "url": "https://github.com/Medalink/laravel-blade", "platforms": ["windows", "osx", "linux"], "version": "1.5.3", "sublime_text": "*", "dependencies": []}

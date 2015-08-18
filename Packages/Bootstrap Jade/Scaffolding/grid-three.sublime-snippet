@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+div.row
+	div.span4 ${1:Column 1}
+	div.span4 ${2:Column 2}
+	div.span4 ${3:Column 3}
+]]></content>
+	<tabTrigger>bjgrid:3</tabTrigger>
+	<description>Bootstrap basic three column grid</description>
+	<scope>source.jade</scope>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+.jumbotron
+	.container
+		h1 ${1:Hello, world!}
+		p ${2:Contents ...}
+		p
+			a(href="${3:#}").btn.btn-primary.btn-large ${4:Learn more}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-jumbotron</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

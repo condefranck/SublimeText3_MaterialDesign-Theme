@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+button.btn.btn-large(type="submit") ${1:Button}
+]]></content>
+	<tabTrigger>bjbutton:large</tabTrigger>
+	<description>Bootstrap large button</description>
+	<scope>source.jade</scope>
+</snippet>

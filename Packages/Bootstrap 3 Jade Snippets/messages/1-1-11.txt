@@ -1,0 +1,18 @@
+UPDATE for bootstrap 3.3.2
+
+All examples updated for 3.3.2
+
+
+TODO : 
+
+Some snippet need to be upgraded for following improvment of bootstrap (a11y , semantics)
+
+- add hidden label for "form" without label use "sr-only"
+- remove uneccessary (role="navigation") when it's main "nav" 
+- use "sr-only" for active "a (links)"
+DONE - update "role" and "aria-expanded" for dropdown-toggle 
+DONE - use "span" instead of "b"
+- use "nav" for main "navigation" instead of "div"
+DONE - use "footer" for main "footer" instead of "div"
+DONE - remove "http:" inside "links" and "script" (let the browser choose the right protocol to use)
+- template theme need to be updated for following change of official example (http://getbootstrap.com/examples/theme/)

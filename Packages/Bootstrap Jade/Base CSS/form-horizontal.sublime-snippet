@@ -1,0 +1,50 @@
+<snippet>
+	<content><![CDATA[
+form.form-horizontal
+	fieldset
+		legend Controls Bootstrap supports
+		div.control-group
+			label.control-label(for="input01") Text input
+			div.controls
+				input.input-xlarge#input01(type="text")
+				p.help-block In addition to freeform text, any HTML5 text-based input appears like so.
+		div.control-group
+			label.control-label(for="optionsCheckbox") Checkbox
+			div.controls
+				label.checkbox
+					input#optionsCheckbox(type="checkbox", value="option1", placeholder="option1")
+					Option one is this and that—be sure to include why it's great
+		div.control-group
+			label.control-label(for="select01") Select list
+			div.controls
+				select#select01
+					option something
+					option 2
+					option 3
+					option 4
+					option 5
+		div.control-group
+			label.control-label(for="multiSelect") Multicon-select
+			div.controls
+				select#multiSelect(multiple="multiple")
+					option 1
+					option 2
+					option 3
+					option 4
+					option 5
+		div.control-group
+			label.control-label(for="fileInput") File input
+			div.controls
+				input.input-file#fileInput(type="file")
+		div.control-group
+			label.control-label(for="textarea") Textarea
+			div.controls
+				textarea.input-xlarge#textarea(rows="3") 
+		div.form-actions
+			button.btn.btn-primary(type="submit") Save changes
+			button.btn Cancel
+]]></content>
+	<tabTrigger>bjform:h</tabTrigger>
+	<description>Bootstrap horizontal form</description>
+	<scope>source.jade</scope>
+</snippet>

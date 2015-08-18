@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+button.btn.btn-danger(type="submit") ${1:Button}
+]]></content>
+	<tabTrigger>bjbutton:d</tabTrigger>
+	<description>Bootstrap danger button</description>
+	<scope>source.jade</scope>
+</snippet>

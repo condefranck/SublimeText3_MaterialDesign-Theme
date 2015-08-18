@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+form.form-inline(action='${1}', method='${2:POST}', role='form')
+	${3:.form-group
+		label.sr-only(for='') label
+		input.form-control(type='email', placeholder='Input field')}${4}
+	button.btn.btn-primary(type='submit') ${5:Submit}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bst-form:inline</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    	<scope>entity.name.tag.jade</scope>
+</snippet>

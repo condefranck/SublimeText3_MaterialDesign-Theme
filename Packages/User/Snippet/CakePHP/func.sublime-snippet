@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/**
+* $1
+**/
+function $2($3){
+	$4
+}]]></content>
+	<tabTrigger>func</tabTrigger>
+</snippet>

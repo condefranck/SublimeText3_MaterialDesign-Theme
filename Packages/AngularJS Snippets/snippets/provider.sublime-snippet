@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+provider('${1:name}', [${2/(?:.+)/'/g}${2/,[ ]*/', '/g}${2/(?:.+)/', /g}function ($2) {
+	$0
+
+	this.\$get = [${3/(?:.+)/'/g}${3/,[ ]*/', '/g}${3/(?:.+)/', /g}function($3) {
+		return {
+
+		};
+	}];
+}])
+]]></content>
+	<tabTrigger>provider</tabTrigger>
+	<scope>source.js</scope>
+	<description>Angular.js</description>
+</snippet>

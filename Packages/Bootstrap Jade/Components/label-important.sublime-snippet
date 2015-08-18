@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+span.label.label-important ${1:Important}
+]]></content>
+	<tabTrigger>bjlabel:it</tabTrigger>
+	<description>Bootstrap important inline label</description>
+	<scope>source.jade</scope>
+</snippet>

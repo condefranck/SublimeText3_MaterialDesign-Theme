@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+ul.thumbnails
+	li.span4
+		a.thumbnail(href="#")
+			img(src="http://placehold.it/360x240", alt="")
+		h3 Basic marketing site
+		p Featuring a hero unit for a primary message and three supporting elements.
+	li.span4
+		a.thumbnail(href="#")
+			img(src="http://placehold.it/360x240", alt="")
+		h3 Fluid layout
+		p Uses our new responsive, fluid grid system to create seamless liquid layout.
+	li.span4
+		a.thumbnail(href="#")
+			img(src="http://placehold.it/360x240", alt="")
+		h3 Starter template
+		p A barebones HTML document with all the Bootstrap CSS and javascript included.
+]]></content>
+	<tabTrigger>bjthumbnails</tabTrigger>
+	<description>Bootstrap thumbnails</description>
+	<scope>source.jade</scope>
+</snippet>

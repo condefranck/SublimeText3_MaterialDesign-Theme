@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+#${1:accordion-id}.panel-group
+		.panel.panel-default
+			.panel-heading
+				h4.panel-title
+					a.accordion-toggle.collapsed(data-toggle='collapse', data-parent='#${1:accordion-id}', href='#collapseOne')
+						| Collapsible Group Item #1
+			#collapseOne.panel-collapse.collapse
+				.panel-body
+					| Panel body
+		.panel.panel-default
+			.panel-heading
+				h4.panel-title
+					a.accordion-toggle.collapsed(data-toggle='collapse', data-parent='#${1:accordion-id}', href='#collapseTwo')
+						| Collapsible Group Item #2
+			#collapseTwo.panel-collapse.in
+				.panel-body
+					| Panel body
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-accordion</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

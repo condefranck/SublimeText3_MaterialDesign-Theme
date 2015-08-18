@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+a(href="#", rel="tooltip", title="first tooltip") hover over me
+]]></content>
+	<tabTrigger>bjtooltip</tabTrigger>
+	<description>Bootstrap tooltips</description>
+	<scope>source.jade</scope>
+</snippet>

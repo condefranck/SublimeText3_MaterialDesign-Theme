@@ -1,0 +1,10 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            { "id": "android_import" },
+            { "command": "android_import", "caption": "Import Android Classes" }
+        ]
+    }
+]

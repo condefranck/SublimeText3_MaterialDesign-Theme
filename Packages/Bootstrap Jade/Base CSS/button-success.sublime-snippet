@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+button.btn.btn-success(type="submit") ${1:Button}
+]]></content>
+	<tabTrigger>bjbutton:s</tabTrigger>
+	<description>Bootstrap success button</description>
+	<scope>source.jade</scope>
+</snippet>

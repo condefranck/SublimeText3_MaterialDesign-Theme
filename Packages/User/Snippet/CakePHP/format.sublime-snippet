@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= \$this->Time->i18nFormat(strtotime(\$v['created']),__('%d %B %Y, %Hh%M')); ?>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>format</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+</snippet>

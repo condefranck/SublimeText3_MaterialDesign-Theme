@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+#${1:carousel-id}.carousel.slide
+			ol.carousel-indicators
+				li.active(data-target='#${1:carousel-id}', data-slide-to='0')
+				li(data-target='#${1:carousel-id}', data-slide-to='1')
+			.carousel-inner
+				.item.active
+					img(${2:data-}src="${3:holder.js/${4:900x500}/${5:#777:#555}/${6:text:${7:First slide}}}", alt='${8:First slide}')
+				.item
+					img(${9:data-}src="${10:holder.js/${11:900x500}/${12:#777:#555}/${13:text:${14:Second slide}}}", alt='${15:Second slide}')
+			a.left.carousel-control(href='#${1:carousel-id}', data-slide='prev')
+				span.icon-prev
+			a.right.carousel-control(href='#${1:carousel-id}', data-slide='next')
+				span.icon-next
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-carousel</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

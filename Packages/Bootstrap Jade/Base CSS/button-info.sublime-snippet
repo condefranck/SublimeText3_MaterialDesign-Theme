@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+button.btn.btn-info(type="submit") ${1:Button}
+]]></content>
+	<tabTrigger>bjbutton:i</tabTrigger>
+	<description>Bootstrap info button</description>
+	<scope>source.jade</scope>
+</snippet>

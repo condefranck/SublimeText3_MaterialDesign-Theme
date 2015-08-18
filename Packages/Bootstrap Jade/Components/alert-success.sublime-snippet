@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+div.alert.alert-success
+	a.close(data-dismiss="alert") &times;
+	strong ${1:Success!}
+	${2:You successfully read this important alert message.}
+]]></content>
+	<tabTrigger>bjalert:s</tabTrigger>
+	<description>Bootstrap success alert</description>
+	<scope>source.jade</scope>
+</snippet>

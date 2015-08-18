@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->load->library(${1:'${2:file_name}'}${3:, ${4:\$config}${5:, ${6:'${7:object_name}'}}});
+]]></content>
+	<tabTrigger>ciloadlib</tabTrigger>
+	<description>Load Library</description>
+	<scope>source.php</scope>
+</snippet>

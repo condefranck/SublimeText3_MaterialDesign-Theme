@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[<?php
+class $1Controller extends AppController{
+	
+	function index(){
+		$2
+	}
+
+}]]></content>
+	<tabTrigger>controller</tabTrigger>
+</snippet>

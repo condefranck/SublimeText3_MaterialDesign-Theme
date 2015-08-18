@@ -1,0 +1,1 @@
+{"description": "Sublime Text 2 plugin for wrapping text in HTML tags or stripping tags from selection", "url": "https://github.com/ignacysokolowski/SublimeTagWrapper", "platforms": ["*"], "version": "2012.09.20.17.07.03", "sublime_text": "<3000", "dependencies": []}

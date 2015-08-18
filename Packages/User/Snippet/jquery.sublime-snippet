@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[(function(\$){
+	$1
+})(jQuery);]]></content>
+	<tabTrigger>jq</tabTrigger>
+</snippet>

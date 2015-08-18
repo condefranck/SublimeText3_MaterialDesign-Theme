@@ -1,0 +1,60 @@
+<snippet>
+	<content><![CDATA[
+div.navbar
+	div.navbar-inner
+		div.container(style="width: auto;")
+			a.btn.btn-navbar(data-toggle="collapse", data-target=".nav-collapse")
+				span.icon-bar
+				span.icon-bar
+				span.icon-bar
+			a.brand((href="#")) Project name
+			div.nav-collapse
+				ul.nav
+					li.active
+						a(href="#") Home
+					li
+						a(href="#") Link
+					li
+						a(href="#") Link
+					li
+						a(href="#") Link
+					li.dropdown
+						a.dropdown-toggle(href="#", data-toggle="dropdown") Dropdown 
+							b.caret
+						ul.dropdown-menu
+							li
+								a(href="#") Action
+							li
+								a(href="#") Another action
+							li
+								a(href="#") Something else here
+							li.divider
+							li.nav-header Nav header
+							li
+								a(href="#") Separated link
+							li
+								a(href="#") One more separated link
+				form.navbar-search.pull-left action=""
+					input.search-query.span2(type="text", placeholder="Search")
+				ul.nav.pull-right
+					li
+						a(href="#") Link
+					li.divider-vertical
+					li.dropdown
+						a.dropdown-toggle(href="#", data-toggle="dropdown") Dropdown 
+							b.caret
+						ul.dropdown-menu
+							li
+								a(href="#") Action
+							li
+								a(href="#") Another action
+							li
+								a(href="#") Something else here
+							li.divider
+							li
+								a(href="#") Separated link
+]]></content>
+	<tabTrigger>bjnavbar</tabTrigger>
+	<description>Bootstrap navigation bar</description>
+	<scope>source.jade</scope>
+</snippet>

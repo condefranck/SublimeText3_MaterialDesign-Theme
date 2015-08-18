@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+.table-responsive
+	table.table${1:.table-hover}
+		thead
+			tr
+				th
+		tbody
+			tr
+				td
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-table:responsive</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

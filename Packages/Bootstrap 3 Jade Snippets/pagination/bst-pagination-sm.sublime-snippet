@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+nav
+	ul.pagination.pagination-sm
+		li: a(href="#") &laquo;
+		li: a(href="#") 1
+		li: a(href="#") 2
+		li: a(href="#") 3
+		li: a(href="#") 4
+		li: a(href="#") 5
+		li: a(href="#") &raquo;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-pagination:sm</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

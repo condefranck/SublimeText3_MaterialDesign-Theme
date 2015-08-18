@@ -1,0 +1,17 @@
+V 1.1.4
+
+Added three examples :
+
+- blog
+- cover
+- dashboard
+
+Minor fix :
+
+- tabtrigger for bst-tpl-carousel
+- update cdn link assets for 3.1.1
+- remove div when that's not necessary (div.class > .class)
+
+Update the README
+
+thank's @rs459

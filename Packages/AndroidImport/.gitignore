@@ -1,0 +1,8 @@
+*.pyc
+lextab.py
+lextab.pyc
+parsertab.py
+parsetab.py
+parsertab.pyc
+parsetab.pyc
+parser.out

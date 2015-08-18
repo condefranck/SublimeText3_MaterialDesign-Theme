@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+.alert.alert-info(role='alert')
+	button.close(type='button', data-dismiss='alert')
+		span(aria-hidden='true') &times;
+		span(sr-only) Close
+	strong ${1:Title!}
+	| ${2:Alert body ...}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-alert:info</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>entity.name.tag.jade</scope>
+</snippet>

@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+.col-xs-${1:3}.col-sm-${1:3}.col-md-${1:3}.col-lg-${1:3}
+	.thumbnail
+		img(${2:data-}src="${3:holder.js/${4:100x200}/${5:#999:#fff}/${6:text:${7:hello world}}}", alt="${8}")${9:.img-responsive}
+		.caption
+			h3 ${10:Title}
+			p ${11:...}
+			p
+				a(href="${12:#}").btn.btn-primary ${13:Action}
+				a(href="${14:#}").btn.btn-default ${15:Action}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-thumbnail:content</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

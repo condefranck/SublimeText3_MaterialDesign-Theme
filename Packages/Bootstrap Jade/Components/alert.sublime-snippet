@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+div.alert
+	a.close(data-dismiss="alert") &times;
+	strong ${1:Warning!}
+	${2:Best check yo self, you're not looking too good}.
+]]></content>
+	<tabTrigger>bjalert</tabTrigger>
+	<description>Bootstrap default alert</description>
+	<scope>source.jade</scope>
+</snippet>

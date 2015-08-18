@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+div.tabbable.tabs-below
+	ul.nav.nav-tabs
+		li.active
+			a(href="#1", data-toggle="tab") Section 1
+		li
+			a(href="#2", data-toggle="tab") Section 2
+	div.tab-content
+		div.tab-pane.active#1
+			p I'm in Section 1.
+		div.tab-pane#2
+			p Howdy, I'm in Section 2.
+]]></content>
+	<tabTrigger>bjtabbable:b</tabTrigger>
+	<description>Bootstrap tabbable navigation tabs on the bottom</description>
+	<scope>source.jade</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+button.btn.btn-warning(type="submit") ${1:Button}
+]]></content>
+	<tabTrigger>bjbutton:w</tabTrigger>
+	<description>Bootstrap warning button</description>
+	<scope>source.jade</scope>
+</snippet>

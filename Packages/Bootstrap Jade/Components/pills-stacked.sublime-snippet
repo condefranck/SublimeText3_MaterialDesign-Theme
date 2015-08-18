@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+ul.nav nav-pills.nav-stacked
+	li.active
+		a(href="#") ${1:Home}
+	li
+		a(href="#") ${2:Profile}
+	li
+		a(href="#") ${3:Messages}
+]]></content>
+	<tabTrigger>bjpills</tabTrigger>
+	<description>Bootstrap basic pills</description>
+	<scope>source.jade</scope>
+</snippet>

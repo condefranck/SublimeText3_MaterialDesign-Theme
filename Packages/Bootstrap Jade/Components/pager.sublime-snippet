@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+ul.pager
+	li
+		a(href="#") Previous
+	li
+		a(href="#")Next
+]]></content>
+	<tabTrigger>bjpager</tabTrigger>
+	<description>Bootstrap default pager</description>
+	<scope>source.jade</scope>
+</snippet>

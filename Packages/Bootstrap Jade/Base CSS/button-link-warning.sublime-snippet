@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+a.btn.btn-warning(href="${1:#}") ${2:Link}
+]]></content>
+	<tabTrigger>bjlink:w</tabTrigger>
+	<description>Bootstrap warning link button</description>
+	<scope>source.jade</scope>
+</snippet>

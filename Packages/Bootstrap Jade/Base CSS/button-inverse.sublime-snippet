@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+button.btn.btn-inverse(type="submit") ${1:Button}
+]]></content>
+	<tabTrigger>bjbutton:i</tabTrigger>
+	<description>Bootstrap inverse button</description>
+	<scope>source.jade</scope>
+</snippet>

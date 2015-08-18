@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<img src="http://placekitten.com/$1/$2">
+]]></content>
+	<tabTrigger>kitten</tabTrigger>
+</snippet>

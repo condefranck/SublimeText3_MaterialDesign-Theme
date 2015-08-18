@@ -1,0 +1,17 @@
+[{
+    "caption" : "Model",
+    "id"      : "model",
+    "default" : ""
+},{
+    "caption" : "Pluriel",
+    "id"      : "models",
+    "default" : "{model}s"
+},{
+    "caption" : "Name",
+    "id"      : "name",
+    "default" : "{model}"
+},{
+    "caption" : "Le ou La ?",
+    "id"      : "genre",
+    "default" : "Le"
+}]

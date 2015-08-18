@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+div.alert.alert-error
+	a.close(data-dismiss="alert") &times;
+	strong ${1:Error!}
+	${2:Change a few things up and try submitting again.}.
+]]></content>
+	<tabTrigger>bjalert:e</tabTrigger>
+	<description>Bootstrap error alert</description>
+	<scope>source.jade</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+div.progress
+	div.bar(style="width: 60%;")
+]]></content>
+	<tabTrigger>bjprogress</tabTrigger>
+	<description>Bootstrap basic progress bar</description>
+	<scope>source.jade</scope>
+</snippet>

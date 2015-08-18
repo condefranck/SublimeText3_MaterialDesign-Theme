@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[<?php
+class ${1:Model} extends AppModel{
+
+	function afterFind(\$results, \$primary = false){
+		foreach(\$results as \$k => \$result){
+			if(isset(\$result[\$this->alias]['slug'])){
+				\$results[\$k][\$this->alias]['url'] = '/' . \$result[\$this->alias]['slug'];
+			}
+		}
+		return \$results;
+	}
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>model</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

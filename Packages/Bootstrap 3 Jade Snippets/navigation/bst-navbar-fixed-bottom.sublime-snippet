@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+nav(role="navigation").navbar.navbar-default.navbar-fixed-bottom
+	a(href="${1:#}").navbar-brand ${2:Title}
+	ul.nav.navbar-nav
+		li.active
+			a(href="#") ${3:Home}
+		li
+			a(href="#") ${4:Link}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-navbar:fixed-bottom</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

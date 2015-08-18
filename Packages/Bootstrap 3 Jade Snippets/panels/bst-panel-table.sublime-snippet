@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+.panel.panel-${1:default}
+	.panel-heading Panel heading
+	.panel-body
+		p Text goes here...
+	table.table
+		thead
+			tr
+				th ${2:Heading 1}
+				th ${3:Heading 2}
+		tbody
+			tr
+				td ${4:Content 1}
+				td ${5:Content 2}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-panel:table</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

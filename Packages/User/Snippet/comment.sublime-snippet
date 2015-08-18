@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[/**
+* $1
+**/]]></content>
+    <scope>source.php, source.js</scope>
+	<tabTrigger>cc</tabTrigger>
+</snippet>

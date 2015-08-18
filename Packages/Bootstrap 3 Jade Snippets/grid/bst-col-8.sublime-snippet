@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+.col-xs-8.col-sm-8.col-md-8.col-lg-8
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-col:8</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

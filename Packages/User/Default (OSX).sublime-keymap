@@ -1,0 +1,154 @@
+[
+    { "keys": ["super+alt+n"], "command": "new_window" },
+
+    // Overlays
+    { "keys": ["super+o"], "command": "show_overlay", "args": {"overlay": "goto"} },
+    { "keys": ["super+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+
+    { "keys": ["super+t"], "command": "auto_complete" },
+    { "keys": ["super+shift+t"], "command": "open_terminal_project_folder" },
+    { "keys": ["super+shift+o"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
+    { "keys": ["super+shift+d"], "command": "find_all_under" },
+    { "keys": ["super+shift+c"], "command": "toggle_comment", "context" : [{
+        "operand": "source.css",
+        "operator": "not_equal",
+        "match_all": true,
+        "key": "selector"
+    },{
+        "operand": "source.scss",
+        "operator": "not_equal",
+        "match_all": true,
+        "key": "selector"
+    }]},
+    { "keys": ["super+shift+down"], "command": "duplicate_line" },
+    { "keys": ["super+k", "super+k"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+
+    // super + e => <?= ?>
+    { "keys": ["super+e"], "command": "insert_snippet", "args": {"contents": "<?= ${1}; ?>${2}"},
+        "context": [{
+          "operand": "text.html",
+          "operator": "equal",
+          "match_all": true,
+          "key": "selector"
+        },{
+          "operand": "source.php",
+          "operator": "not_equal",
+          "match_all": true,
+          "key": "selector"
+        }]
+    },
+
+
+    /*
+    * Emmet
+    * http://www.sublimetext.com/forum/viewtopic.php?f=2&t=2633
+    **/
+    {
+        "keys": [
+            "super+e"
+        ],
+        "command": "wrap_as_you_type",
+        "context": [
+            {
+                "operand": false,
+                "operator": "equal",
+                "match_all": true,
+                "key": "setting.is_widget"
+            },
+            {
+                "match_all": true,
+                "key": "emmet_action_enabled.wrap_as_you_type"
+            },
+            { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+        ]
+    },
+
+    // Alignment
+    { "keys": ["super+l"], "command": "alignment" ,  "context":
+        [
+            { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+        ]
+    },
+
+   {
+        "keys": [
+            "tab"
+        ],
+        "command": "expand_abbreviation_by_tab",
+        "context": [
+            {
+                "operand": "source.css, source.sass, source.less, source.scss, source.stylus, text.xml, text.html, text.haml, text.scala.html, source string, source.php",
+                "operator": "equal",
+                "match_all": true,
+                "key": "selector"
+            },
+            {
+                "operand": "text.html source.js, storage.type.templatetag.django",
+                "operator": "not_equal",
+                "match_all": true,
+                "key": "selector"
+            },
+            {
+                "match_all": true,
+                "key": "selection_empty"
+            },
+            {
+                "operator": "equal",
+                "operand": false,
+                "match_all": true,
+                "key": "has_next_field"
+            },
+            {
+                "operator": "equal",
+                "operand": false,
+                "match_all": true,
+                "key": "setting.disable_tab_abbreviations"
+            },
+            {
+                "operand": false,
+                "operator": "equal",
+                "match_all": true,
+                "key": "auto_complete_visible"
+            },
+            {
+                "match_all": true,
+                "key": "is_abbreviation"
+            }
+        ]
+    },
+
+    /**
+    * Nettuts Fetch
+    **/
+    {    "keys": ["super+shift+e"], "command": "fetch" },
+
+    /**
+    * Advanced New File
+    **/
+    { "keys": ["super+m"], "command": "cake_php"},
+
+    /**
+    * Code folding
+    */
+    { "keys": ["super+@"], "command": "unfold" },
+    { "keys": ["super+&"], "command": "fold_by_level", "args": {"level": 1} },
+    { "keys": ["super+é"], "command": "fold_by_level", "args": {"level": 2} },
+    { "keys": ["super+\""], "command": "fold_by_level", "args": {"level": 3} },
+    { "keys": ["super+'"], "command": "fold_by_level", "args": {"level": 4} },
+    { "keys": ["super+("], "command": "fold_by_level", "args": {"level": 5} },
+    { "keys": ["super+§"], "command": "fold_by_level", "args": {"level": 6} },
+    { "keys": ["super+è"], "command": "fold_by_level", "args": {"level": 7} },
+    { "keys": ["super+!"], "command": "fold_by_level", "args": {"level": 8} },
+    { "keys": ["super+ç"], "command": "fold_by_level", "args": {"level": 9} },
+    { "keys": ["super+à"], "command": "unfold_all" },
+
+    /**
+    * Macro SFTP
+    **/
+    { "keys": ["super+u"], "command": "sftp_upload_file" },
+    { "keys": ["super+alt+d"], "command": "sftp_download_file" },
+    { "keys": ["f2"], "command": "side_bar_rename" },
+    { "keys": ["super+alt+f"], "command": "side_bar_find_files_path_containing" },
+    { "keys": ["super+n"], "command": "advanced_new_file"}
+
+]

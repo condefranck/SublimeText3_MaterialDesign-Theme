@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+App::uses('CakeEmail', 'Network/Email');
+\$cakeMail = new CakeEmail('default');
+\$cakeMail->to($1);
+\$cakeMail->subject($2);
+\$cakeMail->template('mdp');
+\$cakeMail->viewVars(array($3));
+\$cakeMail->emailFormat('html');
+\$cakeMail->send();]]></content>
+	<tabTrigger>mail</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

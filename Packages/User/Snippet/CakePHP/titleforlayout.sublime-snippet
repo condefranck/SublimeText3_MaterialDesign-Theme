@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<?php \$this->set('title_for_layout',"$1"); ?>
+]]></content>
+	<tabTrigger>title</tabTrigger>
+</snippet>

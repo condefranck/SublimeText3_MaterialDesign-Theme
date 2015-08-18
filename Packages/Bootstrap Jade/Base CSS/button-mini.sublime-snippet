@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+button.btn.btn-mini(type="submit") ${1:Button}
+]]></content>
+	<tabTrigger>bjbutton:mini</tabTrigger>
+	<description>Bootstrap mini button</description>
+	<scope>source.jade</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+a.btn.btn-primary(href="${1:#}") ${2:Link}
+]]></content>
+	<tabTrigger>bjlink:p</tabTrigger>
+	<description>Bootstrap primary link button</description>
+	<scope>source.jade</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+a.btn.btn-success(href="${1:#}") ${2:Link}
+]]></content>
+	<tabTrigger>bjlink:s</tabTrigger>
+	<description>Bootstrap success link button</description>
+	<scope>source.jade</scope>
+</snippet>

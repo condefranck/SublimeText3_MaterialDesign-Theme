@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->email}->clear();
+]]></content>
+	<tabTrigger>cimailclear</tabTrigger>
+	<description>E-mail Clear</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+table.table.table-bordered${1:.table-hover}
+	thead
+		tr
+			th
+	tbody
+		tr
+			td
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-table:bordered</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

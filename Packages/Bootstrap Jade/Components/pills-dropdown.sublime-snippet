@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+ul.nav.nav-pills
+	li.active
+		a(href="#") ${1:Home}
+	li
+		a(href="#") ${2:Profile}
+	li.dropdown
+		a.dropdown-toggle(href="#", data-toggle="dropdown") ${3:Dropdown}
+			b.caret
+		ul.dropdown-menu
+			li
+				a(href="#") ${4:Action}
+			li
+				a(href="#") ${5:Another action}
+			li
+				a(href="#") ${6:Something else here}
+			li.divider
+			li
+				a(href="#") ${7:Separated link}
+]]></content>
+	<tabTrigger>bjpills:d</tabTrigger>
+	<description>Bootstrap pills with dropdowns</description>
+	<scope>source.jade</scope>
+</snippet>

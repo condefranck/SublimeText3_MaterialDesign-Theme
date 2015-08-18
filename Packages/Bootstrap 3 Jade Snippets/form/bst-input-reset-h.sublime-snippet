@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+.form-group
+	.col-sm-${1:10}.col-offset-${2:2}
+		input(type="reset", value="${3:Reset}").btn.btn-default
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-input:reset:h</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

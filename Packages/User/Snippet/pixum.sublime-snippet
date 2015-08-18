@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+http://lorempixum.com/$1/$2/nature
+]]></content>
+	<tabTrigger>pixum</tabTrigger>
+</snippet>

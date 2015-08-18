@@ -1,0 +1,36 @@
+<snippet>
+		<content><![CDATA[
+doctype
+<!--[if IE 8]><html class="lt-ie9 no-js"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
+head
+	//- TODO: Check if it's the good charset
+	meta(charset='utf-8')
+	meta(http-equiv='X-UA-Compatible', content='IE=edge')
+	title 
+	meta(name='description', content='')
+	meta(name='viewport', content='width=device-width,initial-scale=1')
+	//- TODO : Place favicon.ico and apple-touch-icon.png in the root directory
+	block css
+		link(rel='stylesheet', href='http://netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css')
+		//- link(rel="stylesheet", href="http://netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css")
+	block top-script
+		//- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries
+		<!--[if lt IE 9]>
+		script(src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.0/html5shiv.js")
+		script(src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js")
+		<![endif]-->
+body
+	//- Add your site or application content here
+	block main
+
+	block bottom-script
+		script(src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js")
+		script(src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js")
+		script(src="//cdnjs.cloudflare.com/ajax/libs/holder/2.3.0/holder.js")
+]]></content>
+		<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+		<tabTrigger>bst-h5bp-layout-jade</tabTrigger>
+		<!-- Optional: Set a scope to limit where the snippet will trigger -->
+			<scope>entity.name.tag.jade</scope>
+</snippet>

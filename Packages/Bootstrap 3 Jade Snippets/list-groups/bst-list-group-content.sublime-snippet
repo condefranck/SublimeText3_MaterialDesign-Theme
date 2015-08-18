@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+.list-group
+	a(href="#").list-group-item.active
+		h4.list-group-item-heading ${1:List group item heading}
+		p.list-group-item-text ${2:Content goes here}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-list-group:content</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

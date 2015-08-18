@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+.media
+	a(href="${1:#}").media-left
+		img(${2:data-}src="${3:holder.js/${4:64x64}}", alt="${5}")
+	.media-body
+		h4.media-heading ${6:Media heading}
+		p ${7:Text goes here...}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-media</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+span.badge.badge-error ${1:6}
+]]></content>
+	<tabTrigger>bjbadge:e</tabTrigger>
+	<description>Bootstrap error badge</description>
+	<scope>source.jade</scope>
+</snippet>

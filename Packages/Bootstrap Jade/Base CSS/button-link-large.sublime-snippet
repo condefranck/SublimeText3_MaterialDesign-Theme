@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+a.btn.btn-large(href="${1:#}") ${2:Link}
+]]></content>
+	<tabTrigger>bjlink:l</tabTrigger>
+	<description>Bootstrap large link button</description>
+	<scope>source.jade</scope>
+</snippet>

@@ -1,0 +1,4 @@
+UPDATE for bootstrap 3.3.0
+
+- mostly a11y improvement
+- typo fix

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+input(type="text", name="${1}", id="${1}"${5:, value="${6}"}${7:, required="required"}${8:, pattern="${9}"}${10:, title="${11}"}).form-control
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-input:text</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

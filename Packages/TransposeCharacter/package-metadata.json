@@ -1,0 +1,1 @@
+{"description": "Swaps two characters, lines, words, or reverses a selection.  Depending on cursor location and selection(s).", "url": "https://github.com/colinta/SublimeTransposeCharacter", "platforms": ["*"], "version": "2013.07.09.15.10.21", "sublime_text": "<3000", "dependencies": []}

@@ -1,0 +1,9 @@
+Update to 3.1.1
+
+Update :
+
+- Respond.js
+- Holder.js
+- Htmlshiv.js
+
+Use of entity.name.tag.jade instead of source.jade (thank's to "rnosov")

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+return \$this->redirect(${1:\$this->referer()});$2
+]]></content>redir
+	<tabTrigger>redir</tabTrigger>
+</snippet>

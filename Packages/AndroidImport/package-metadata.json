@@ -1,0 +1,1 @@
+{"description": "A Sublime Text 2/3 plugin which automatically adds imports from the Android SDK.", "url": "https://github.com/ribot/SublimeAndroidImport", "platforms": ["*"], "version": "0.4.2", "sublime_text": "*", "dependencies": []}

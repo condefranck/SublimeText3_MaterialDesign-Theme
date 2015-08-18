@@ -1,0 +1,4 @@
+V1.1.9
+
+- Update classname completion
+- Update Cdn for 3.2.0

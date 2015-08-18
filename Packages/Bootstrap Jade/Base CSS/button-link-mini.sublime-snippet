@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+a.btn.btn-mini(href="${1:#}") ${2:Link}
+]]></content>
+	<tabTrigger>bjlink:m</tabTrigger>
+	<description>Bootstrap mini link button</description>
+	<scope>source.jade</scope>
+</snippet>

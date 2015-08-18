@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+.form-group
+	.col-${1:sm-10}.col-offset-2
+		button(type="submit").btn.btn-primary ${2:Submit}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-input:submit:h</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

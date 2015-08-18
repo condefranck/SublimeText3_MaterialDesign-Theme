@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+div.alert.alert-info
+	a.close(data-dismiss="alert") &times;
+	strong ${1:Information!}
+	${2:This alert needs your attention, but it's not super important.}
+</div>
+]]></content>
+	<tabTrigger>bjalert:i</tabTrigger>
+	<description>Bootstrap information alert</description>
+	<scope>source.jade</scope>
+</snippet>

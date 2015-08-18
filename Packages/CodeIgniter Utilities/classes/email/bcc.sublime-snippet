@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->email}->bcc(${2:'${3:you@example.com}'});
+]]></content>
+	<tabTrigger>cimailbcc</tabTrigger>
+	<description>E-mail Blind Carbon Copy</description>
+	<scope>source.php</scope>
+</snippet>

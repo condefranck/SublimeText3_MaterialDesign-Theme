@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+button${1:(type="${2:button}")}.btn.btn-sm.btn-danger ${3:button}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bst-sm-button:danger</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>entity.name.tag.jade</scope>
+</snippet>

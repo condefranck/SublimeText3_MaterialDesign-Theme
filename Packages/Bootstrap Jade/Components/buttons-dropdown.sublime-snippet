@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+div.btn-group
+	a.btn.dropdown-toggle(data-toggle="dropdown", href="#") Action 
+		span.caret
+	ul.dropdown-menu
+		li
+			a(href="#") ${1:Action}
+		li
+			a(href="#") ${2:Another action}
+		li
+			a(href="#") ${3:Something else here}
+		li.divider
+		li
+			a(href="#") ${4:Separated link}
+]]></content>
+	<tabTrigger>bjbuttons:d</tabTrigger>
+	<description>Bootstrap button dropdowns</description>
+	<scope>source.jade</scope>
+</snippet>
