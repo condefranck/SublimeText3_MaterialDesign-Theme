@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"Alignment",
+		"Angular 2 Snippets (John Papa)",
+		"Angular Material Snippets",
+		"AngularJS",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"Bootstrap 4 Snippets",
+		"BracketHighlighter",
+		"CodeIgniter 2 ModelController",
+		"CodeIgniter Snippets",
+		"CodeIgniter Utilities",
+		"ColorPicker",
+		"Colorsublime",
+		"DocBlockr",
+		"Emmet",
+		"GotoDocumentation",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PHP Completions Kit",
+		"php-snippets",
+		"SideBarEnhancements",
+		"sublime-github"
+	]
+}
