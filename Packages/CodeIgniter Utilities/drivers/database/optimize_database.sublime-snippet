@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->dbutil->optimize_database();
-]]></content>
-	<tabTrigger>cidbuoptdb</tabTrigger>
-	<description>Database Utility Optimize DB</description>
-	<scope>source.php</scope>
-</snippet>

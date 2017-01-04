@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->input->cookie()('${1:name}');
-]]></content>
-	<tabTrigger>_cookie</tabTrigger>
-	<scope>source.php</scope>
-	<description>CI - Cookie</description>
-</snippet>

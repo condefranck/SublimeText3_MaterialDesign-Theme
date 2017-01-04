@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->db->close();
-]]></content>
-	<tabTrigger>cidbclose</tabTrigger>
-	<description>Database Close</description>
-	<scope>source.php</scope>
-</snippet>

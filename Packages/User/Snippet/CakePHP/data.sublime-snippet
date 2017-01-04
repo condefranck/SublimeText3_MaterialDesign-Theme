@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->request->data$1
-]]></content>
-	<tabTrigger>data</tabTrigger>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->input->get('${1:name}')
-]]></content>
-	<tabTrigger>_get</tabTrigger>
-	<scope>source.php</scope>
-	<description>CI - $_GET</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->db->escape($1);
-]]></content>
-	<tabTrigger>cidbesc</tabTrigger>
-	<description>Database Data Escape</description>
-	<scope>source.php</scope>
-</snippet>

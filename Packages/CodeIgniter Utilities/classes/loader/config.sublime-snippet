@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->load->language(${1:'${2:file_name}'});
-]]></content>
-	<tabTrigger>ciloadlang</tabTrigger>
-	<description>Load Language File</description>
-	<scope>source.php</scope>
-</snippet>

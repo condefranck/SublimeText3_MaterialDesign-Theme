@@ -1,4 +1,0 @@
-[
-	{ "keys": ["alt+shift+t"], "command": "tag_wrapper_input" },
-	{ "keys": ["alt+shift+s"], "command": "strip_tags" }
-]

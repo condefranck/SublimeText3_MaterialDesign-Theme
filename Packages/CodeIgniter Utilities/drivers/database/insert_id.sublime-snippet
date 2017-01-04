@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->db->insert_id();
-]]></content>
-	<tabTrigger>cidbid</tabTrigger>
-	<description>Database Insert Id</description>
-	<scope>source.php</scope>
-</snippet>

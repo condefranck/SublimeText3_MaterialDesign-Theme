@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-log_message('${1:error}','${2:message}');
-]]></content>
-	<tabTrigger>log</tabTrigger>
-	<scope>source.php</scope>
-	<description>CI - Log Message</description>
-</snippet>

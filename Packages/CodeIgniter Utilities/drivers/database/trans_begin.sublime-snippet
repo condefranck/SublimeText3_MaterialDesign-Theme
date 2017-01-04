@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->db->trans_begin();
-]]></content>
-	<tabTrigger>cidbtransbeg</tabTrigger>
-	<description>Database Transaction Begin</description>
-	<scope>source.php</scope>
-</snippet>

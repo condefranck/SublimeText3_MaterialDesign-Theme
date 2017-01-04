@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-${1:\$this->db}->truncate(${2:'${3:table}'});
-]]></content>
-	<tabTrigger>cidbtrun</tabTrigger>
-	<description>Database A.R. Truncate</description>
-	<scope>source.php</scope>
-</snippet>

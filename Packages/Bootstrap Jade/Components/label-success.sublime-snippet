@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-span.label.label-success ${1:Success}
-]]></content>
-	<tabTrigger>bjlabel:s</tabTrigger>
-	<description>Bootstrap success inline label</description>
-	<scope>source.jade</scope>
-</snippet>

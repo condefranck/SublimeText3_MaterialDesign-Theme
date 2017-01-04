@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->Time->i18nFormat(strtotime($v['date']),__('%d %B %Y, %Hh%M'));
-]]></content>
-	<tabTrigger>data</tabTrigger>
-</snippet>

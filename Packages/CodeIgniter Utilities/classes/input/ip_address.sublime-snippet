@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->input->ip_address();
-]]></content>
-	<tabTrigger>ciinputip</tabTrigger>
-	<description>Input Ip</description>
-	<scope>source.php</scope>
-</snippet>

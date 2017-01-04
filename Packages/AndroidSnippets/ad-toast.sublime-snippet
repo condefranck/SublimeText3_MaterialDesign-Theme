@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-<![CDATA[
-Toast.makeText(this, ${1:""}, Toast.LENGTH_LONG).show();
-]]>
-	</content>
-	<tabTrigger>ad-toast</tabTrigger>
-	<scope>source.java</scope>
-</snippet>

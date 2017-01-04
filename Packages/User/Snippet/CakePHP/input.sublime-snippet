@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<?= \$this->Form->input('$1', array('label' => "$2")); ?>$3
-]]></content>
-	<tabTrigger>input</tabTrigger>
-</snippet>

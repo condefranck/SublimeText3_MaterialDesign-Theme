@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->db->trans_status()${1:;}
-]]></content>
-	<tabTrigger>cidbtranstat</tabTrigger>
-	<description>Database Transaction Status</description>
-	<scope>source.php</scope>
-</snippet>

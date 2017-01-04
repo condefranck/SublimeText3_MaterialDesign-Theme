@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<a class="btn btn-xs btn-warning" href="#" role="button">button</a>
-]]></content>
-	<tabTrigger>bs3-xs-link-button:warning</tabTrigger>
-</snippet>

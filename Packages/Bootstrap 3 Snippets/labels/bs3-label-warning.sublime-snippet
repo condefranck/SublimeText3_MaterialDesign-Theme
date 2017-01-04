@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<span class="label label-warning">${1:Label}</span>
-]]></content>
-	<tabTrigger>bs3-label:warning</tabTrigger>
-</snippet>

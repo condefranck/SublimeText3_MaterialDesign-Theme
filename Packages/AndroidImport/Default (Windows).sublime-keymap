@@ -1,6 +1,0 @@
-[
-    {
-        "keys": ["alt+shift+o"],
-        "command": "android_import"
-    }
-]

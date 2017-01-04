@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->set(compact('$1'));$2
-]]></content>
-	<tabTrigger>set</tabTrigger>
-</snippet>

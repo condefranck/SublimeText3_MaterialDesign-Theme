@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-uri_string();
-]]></content>
-	<tabTrigger>ciuristr</tabTrigger>
-	<description>URI String</description>
-	<scope>source.php</scope>
-</snippet>

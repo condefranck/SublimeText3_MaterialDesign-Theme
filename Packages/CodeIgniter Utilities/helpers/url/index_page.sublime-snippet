@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-index_page();
-]]></content>
-	<tabTrigger>ciindex</tabTrigger>
-	<description>Index Page</description>
-	<scope>source.php</scope>
-</snippet>

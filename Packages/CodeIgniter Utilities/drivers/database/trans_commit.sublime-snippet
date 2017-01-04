@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->db->trans_commit();
-]]></content>
-	<tabTrigger>cidbtranscom</tabTrigger>
-	<description>Database Transaction Commit</description>
-	<scope>source.php</scope>
-</snippet>

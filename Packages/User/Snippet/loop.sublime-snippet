@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[<?php while(have_posts()): the_post(); ?>
-
-<?php endwhile; ?>]]></content>
-	<tabTrigger>loop</tabTrigger>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-span.label.label-info ${1:Info}
-]]></content>
-	<tabTrigger>bjlabel:io</tabTrigger>
-	<description>Bootstrap info inline label</description>
-	<scope>source.jade</scope>
-</snippet>

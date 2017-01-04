@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[form_fieldset_close();
-]]></content>
-	<tabTrigger>ciformfieldsetclose</tabTrigger>
-	<description>Form fieldset close</description>
-	<scope>source.php</scope>
-</snippet>

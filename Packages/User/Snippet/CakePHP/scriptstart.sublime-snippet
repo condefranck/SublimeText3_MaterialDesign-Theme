@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<?php \$this->Html->scriptStart(array('inline'=>false)); ?>
-	$1
-<?php \$this->Html->scriptEnd(); ?>]]></content>
-	<tabTrigger>ss</tabTrigger>
-</snippet>

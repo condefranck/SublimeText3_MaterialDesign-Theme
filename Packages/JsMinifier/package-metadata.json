@@ -1,1 +1,0 @@
-{"description": "Sublime Text plugin for javascript minification using Google Closure compiler", "url": "https://github.com/cgutierrez/JsMinifier", "platforms": ["*"], "version": "2013.05.17.19.52.11", "sublime_text": "<3000", "dependencies": []}

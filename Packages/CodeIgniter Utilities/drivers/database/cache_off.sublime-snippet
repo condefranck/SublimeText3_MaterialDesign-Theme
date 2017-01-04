@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->db->cache_off();
-]]></content>
-	<tabTrigger>cidbcacheoff</tabTrigger>
-	<description>Database Cache Off</description>
-	<scope>source.php</scope>
-</snippet>

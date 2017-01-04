@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$this->jquery->toogle(${1:'${2:target}'});
-]]></content>
-	<tabTrigger>cijqtoog</tabTrigger>
-	<description>jQuery Toogle</description>
-</snippet>

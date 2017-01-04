@@ -1,5 +1,0 @@
-V 1.1.6
-
-Fix :
-
-deprecated !!!5 inside jade template
