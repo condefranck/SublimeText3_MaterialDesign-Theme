@@ -1,0 +1,3507 @@
+{
+	"folder_history":
+	[
+		"/C/xampp/htdocs/javascript",
+		"/D/Projets/Anthony Welc/javascript",
+		"/C/xampp/htdocs/cicg_teste",
+		"/C/xampp/htdocs/communication.gouv",
+		"/C/xampp/htdocs/agriculture.gouv",
+		"/C/xampp/htdocs/mudedi",
+		"/C/xampp/htdocs/pipt",
+		"/C/xampp/htdocs/scash",
+		"/C/xampp/htdocs/cicg_intro",
+		"/D/Projets/CICG/coming soon",
+		"/C/xampp/htdocs/cicg.gouv",
+		"/C/Users/cicg.local/Downloads/recline-master",
+		"/C/Users/cicg.local/Downloads/rec",
+		"/D/web/gouv",
+		"/C/xampp/htdocs/caidp.gouv",
+		"/C/Users/cicg.local/Desktop/econso.club",
+		"/C/xampp/htdocs/opendata.gouv",
+		"/C/xampp/htdocs/finapay_admin",
+		"/C/xampp/htdocs/annuaire.gouv",
+		"/C/xampp/htdocs/adsmanager",
+		"/C/xampp/htdocs/megvie",
+		"/C/xampp/htdocs/finapay_corporate",
+		"/C/xampp/htdocs/defense.gouv",
+		"/C/xampp/htdocs/econso.club",
+		"/C/Users/cicg.local/Desktop/login",
+		"/C/xampp/htdocs/webmail",
+		"/C/xampp/htdocs/laposte.gouv",
+		"/C/xampp/htdocs/censad2017",
+		"/C/xampp/htdocs/africa_ue.gouv",
+		"/D/web/ciea.gouv",
+		"/C/xampp/htdocs/pprc.gouv",
+		"/C/xampp/htdocs/censad",
+		"/C/xampp/htdocs/econso",
+		"/C/xampp/htdocs/cocofci.gouv",
+		"/D/web/ambassade.gouv",
+		"/D/web/defense.gouv",
+		"/C/xampp/htdocs/faq_agrobusiness",
+		"/C/xampp/htdocs/newline",
+		"/C/xampp/htdocs/codeigniter3_HMVC_default_config",
+		"/C/xampp/htdocs/ngRando",
+		"/D/web/moteurPHP5.5",
+		"/D/web/404",
+		"/C/xampp/htdocs/projet1",
+		"/C/Users/cicg.local/Downloads/CodeIgniter2_Default_HMVC-master",
+		"/C/xampp/htdocs/marchesplus",
+		"/C/xampp/htdocs/ciea.gouv",
+		"/C/xampp/htdocs/ambassade.gouv",
+		"/C/xampp/htdocs/multi_uploads",
+		"/C/wamp/www/monsite"
+	],
+	"last_version": 3143,
+	"last_window_id": 36,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 667.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ec",
+						"echo\tPHTML: <?php echo ... ?>"
+					],
+					[
+						"ech",
+						"echoh\tPHTML: echo htmlentities(...)"
+					],
+					[
+						"conr",
+						"construct\tCI - Class Constructor"
+					],
+					[
+						"in",
+						"inc\tPHP: include expression"
+					],
+					[
+						"bordr",
+						"border-radius"
+					],
+					[
+						"boder",
+						"border"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"bck",
+						"background"
+					],
+					[
+						"oh",
+						"ovy-h\toverflow-y: hidden;"
+					],
+					[
+						"TRAN",
+						"transition"
+					],
+					[
+						"fs",
+						"font-size"
+					],
+					[
+						"pre",
+						"pre-line"
+					],
+					[
+						"rem",
+						"removeAttr\t.removeAttr()"
+					],
+					[
+						"api",
+						"api_model"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"redire",
+						"redirect_back"
+					],
+					[
+						"im",
+						"image"
+					],
+					[
+						"lis",
+						"list-style-type"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"logo",
+						"logo_intro.png\tw:150 h:84"
+					],
+					[
+						"modif",
+						"modif_eglise"
+					],
+					[
+						"sub",
+						"submit\t.submit()"
+					],
+					[
+						"post",
+						"php-section-comment\tInsert a comment block at the start of a new section in your PHP class"
+					],
+					[
+						"pro",
+						"prop\t.prop() - single"
+					],
+					[
+						"DB_",
+						"DB_HOST"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"od",
+						"odd.jpg\tw:260 h:28"
+					],
+					[
+						"wh",
+						"width\tAttr"
+					],
+					[
+						"img",
+						"images/"
+					],
+					[
+						"texal",
+						"text-align"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"html",
+						"htmlentities"
+					],
+					[
+						"li",
+						"list-style-type"
+					],
+					[
+						"done",
+						"donnee_model"
+					],
+					[
+						"top",
+						"toppromo.png\tw:150 h:120"
+					],
+					[
+						"borc",
+						"border-color"
+					],
+					[
+						"borderr",
+						"border-radius"
+					],
+					[
+						"pr",
+						"produit-vivrier.png\tw:225 h:225"
+					],
+					[
+						"ma",
+						"maw\tmax-width"
+					],
+					[
+						"hid",
+						"hidden-xs \tBootstrap 3 Class"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"mate",
+						"m-icon:alert-error\tm-icon-alert-error"
+					],
+					[
+						"load",
+						"load_view\tCI - Load View"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"hidd",
+						"hidden-sm-up \tBootstrap 4 Class"
+					],
+					[
+						"lists",
+						"list-style"
+					],
+					[
+						"overflow",
+						"overflow"
+					],
+					[
+						"tt",
+						"text-transform"
+					],
+					[
+						"col-md",
+						"col-md-6 \tBootstrap 4 Class"
+					],
+					[
+						"borr",
+						"border-right"
+					],
+					[
+						"hmd",
+						"hidden-md-up \tBootstrap 4 Class"
+					],
+					[
+						"tab",
+						"table-responsive \tBootstrap 3 Class"
+					],
+					[
+						"label-D",
+						"label-default \tBootstrap 3 Class"
+					],
+					[
+						"formcon",
+						"form-control \tBootstrap 3 Class"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"A",
+						"Auth::logout\tLog the user out of the application."
+					],
+					[
+						"t",
+						"topalerte.png\tw:188 h:225"
+					],
+					[
+						"btn",
+						"btn-block \tBootstrap 3 Class"
+					],
+					[
+						"con",
+						"construct\tCI - Class Constructor"
+					],
+					[
+						"sess",
+						"session_userdata\tCI - Session - Retrieving Session Data"
+					],
+					[
+						"end",
+						"endif"
+					],
+					[
+						"see",
+						"session_userdata\tCI - Session - Retrieving Session Data"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"rgb",
+						"rgba()"
+					],
+					[
+						"bckc",
+						"background-color"
+					],
+					[
+						"tom",
+						"topmarket.png\tw:100 h:100"
+					],
+					[
+						"to",
+						"topshopping.png\tw:100 h:100"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"fin",
+						"fenacci.png\tw:402 h:100"
+					],
+					[
+						"ngs",
+						"ngser.png\tw:1150 h:250"
+					],
+					[
+						"slid",
+						"slide2.jpg\tw:1920 h:460"
+					],
+					[
+						"Sea",
+						"Search_model"
+					],
+					[
+						"dbli",
+						"db_like\tCI - Active Record DB LIKE"
+					],
+					[
+						"remov",
+						"removeClass\t.removeClass()"
+					],
+					[
+						"rb",
+						"rgba()"
+					],
+					[
+						"jqu",
+						"jQuery.ajax\tjQuery.ajax"
+					],
+					[
+						"att",
+						"attr\t.attr() - single"
+					],
+					[
+						"fv",
+						"form_validation\tCI - Form Validation Rule"
+					],
+					[
+						"hi",
+						"hidden-xs \tBootstrap 3 Class"
+					],
+					[
+						"for",
+						"for\tPHP: for statement"
+					],
+					[
+						"Donn",
+						"Donnee_model"
+					],
+					[
+						"pla",
+						"placehold"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"bs3tab",
+						"bs3-table\tbs3-table"
+					],
+					[
+						"ima",
+						"images/"
+					],
+					[
+						"Blo",
+						"Blog_model"
+					],
+					[
+						"Don",
+						"Donnee_model"
+					],
+					[
+						"loa",
+						"load_model\tCI - Load Model"
+					],
+					[
+						"img-",
+						"img-responsive \tBootstrap 3 Class"
+					],
+					[
+						"run",
+						"run_validation\tCI - Run form validation"
+					],
+					[
+						"table",
+						"table-bordered \tBootstrap 4 Class"
+					],
+					[
+						"the",
+						"thematiques_liste"
+					],
+					[
+						"thema",
+						"thematiques_ajout"
+					],
+					[
+						"inc",
+						"inc/"
+					],
+					[
+						"ins",
+						"get_instance"
+					],
+					[
+						"cu",
+						"cur-d\tcursor: default;"
+					],
+					[
+						"border-left",
+						"border-top-left-radius"
+					],
+					[
+						"get",
+						"get_instance\tCI - Assign the CodeIgniter object to a variable"
+					],
+					[
+						"ci",
+						"ci2c\tCodeIgniter 2 Controller"
+					],
+					[
+						"form_va",
+						"form_validation_sv\tCI - Form Validation Set Value"
+					],
+					[
+						"bord",
+						"border"
+					],
+					[
+						"bors",
+						"border-style"
+					],
+					[
+						"tc",
+						"text-center \tBootstrap 3 Class"
+					],
+					[
+						"ohv",
+						"ovy-h\toverflow-y: hidden;"
+					],
+					[
+						"bordc",
+						"border-color"
+					],
+					[
+						"trans",
+						"transition"
+					],
+					[
+						"cur",
+						"cicururl\tCurrent URL"
+					],
+					[
+						"fun",
+						"fun\tPHP: function definition"
+					],
+					[
+						"mih",
+						"min-height"
+					],
+					[
+						"liss",
+						"list-style-type"
+					],
+					[
+						"bos",
+						"box-shadow"
+					],
+					[
+						"alig",
+						"align-items"
+					],
+					[
+						"border-co",
+						"border-color"
+					],
+					[
+						"cl",
+						"cl\tclear: ${1:both};"
+					],
+					[
+						"lisn",
+						"list-n\tlist-style-type: none;"
+					],
+					[
+						"par",
+						"parent\t.parent()"
+					],
+					[
+						"th",
+						"this\t<?php $this->… ?>"
+					],
+					[
+						"colmdoff",
+						"col-md-offset-2 \tBootstrap 3 Class"
+					],
+					[
+						"col-md-off",
+						"col-md-offset-1 \tBootstrap 3 Class"
+					],
+					[
+						"organis",
+						"Organisations"
+					],
+					[
+						"laod",
+						"load_view\tCI - Load View"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"add",
+						"addClass\t.addClass()"
+					],
+					[
+						"ad",
+						"addClass\t.addClass()"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"max-",
+						"max-width"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "syn",
+				"selected_items":
+				[
+					[
+						"syn",
+						"Set Syntax: PHP"
+					],
+					[
+						"syb",
+						"Set Syntax: Batch File"
+					],
+					[
+						"colo",
+						"Color Picker"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"upp",
+						"Convert Case: Upper Case"
+					],
+					[
+						"co",
+						"Color Picker"
+					],
+					[
+						"lo",
+						"Convert Case: Lower Case"
+					],
+					[
+						"col",
+						"Color Picker"
+					],
+					[
+						"c",
+						"Color Picker"
+					],
+					[
+						"sy",
+						"Set Syntax: PHP"
+					],
+					[
+						"termin",
+						"Terminal: Open"
+					],
+					[
+						"ter",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"inp",
+						"Package Control: Install Package"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"pc",
+						"Package Control: Install Package"
+					],
+					[
+						"SYN",
+						"Set Syntax: PHP"
+					],
+					[
+						"low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"LO",
+						"Convert Case: Lower Case"
+					],
+					[
+						"sly",
+						"Set Syntax: Lisp"
+					],
+					[
+						"bs3",
+						"Snippet: bs3-modal"
+					],
+					[
+						"bs3form",
+						"Snippet: bs3-form"
+					],
+					[
+						"bs3for",
+						"Snippet: bs3-form"
+					],
+					[
+						"bs",
+						"Bookmarks: Select All"
+					],
+					[
+						"bs3htm",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"bs3mo",
+						"Snippet: bs3-modal"
+					],
+					[
+						"bs3html",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"matefo",
+						"Snippet: Materialize form"
+					],
+					[
+						"syncss",
+						"Set Syntax: CSS"
+					],
+					[
+						"synjava",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syntj",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ordepar",
+						"Origami: Destroy Pane on the Right"
+					],
+					[
+						"orcrpanr",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"ordepanle",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"orcrpanlef",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"ordestpanl",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"ori",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"synph",
+						"Set Syntax: PHP"
+					],
+					[
+						"syntja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"rep",
+						"Package Control: Remove Package"
+					],
+					[
+						"oridesto",
+						"Origami: Destroy Pane Above"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"pal",
+						"Package Control: List Packages"
+					],
+					[
+						"or",
+						"Origami: Destroy Pane Below"
+					],
+					[
+						"UPP",
+						"Convert Case: Upper Case"
+					],
+					[
+						"cp",
+						"Color Picker"
+					],
+					[
+						"colp",
+						"Color Picker"
+					],
+					[
+						"up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"cofl",
+						"Snippet: container_fluid"
+					],
+					[
+						"IP",
+						"Package Control: Install Package"
+					],
+					[
+						"align",
+						"Snippet: alignement"
+					],
+					[
+						"remp",
+						"Package Control: Remove Package"
+					],
+					[
+						"lip",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"Install Package Control"
+					],
+					[
+						"insp",
+						"Install Package Control"
+					]
+				],
+				"width": 862.0
+			},
+			"console":
+			{
+				"height": 190.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/xampp/htdocs/mudedi/coeur/views/pantheon_view.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/detail_album_view.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/inc/header_inc.php",
+				"/C/xampp/htdocs/communication.gouv/assets/css/style.css",
+				"/C/xampp/htdocs/communication.gouv/contact.php",
+				"/C/xampp/htdocs/mudedi/coeur/controllers/contact.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/album_view.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/detail_actualite_view.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/actualite_view.php",
+				"/C/xampp/htdocs/mudedi/coeur/controllers/village.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/projet_detail_view.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/accueil/controllers/accueil.php",
+				"/C/xampp/htdocs/communication.gouv/index.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/inc/script_inc.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/accueil/views/details_album_view.php",
+				"/C/xampp/htdocs/agriculture.gouv/assets/css/style.css",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/accueil/views/template/style_inc.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/accueil/views/template/script_inc.php",
+				"/C/xampp/htdocs/opendata.gouv/assets/css/style.css",
+				"/C/xampp/htdocs/cicg.gouv/coeur/modules/accueil/views/index-citoyen.php",
+				"/C/xampp/htdocs/cicg.gouv/coeur/modules/accueil/controllers/accueil.php",
+				"/C/xampp/htdocs/mudedi/coeur/controllers/accueil.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/projet_view.php",
+				"/C/xampp/htdocs/cicg_intro/index.html",
+				"/C/xampp/htdocs/mudedi/assets/js/script.js",
+				"/C/xampp/htdocs/mudedi/coeur/views/home_view.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/inc/style_inc.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/projet_detail.php",
+				"/C/xampp/htdocs/cicg_intro/realisation.html",
+				"/C/xampp/htdocs/cicg.gouv/coeur/modules/accueil/views/realisation.php",
+				"/C/xampp/htdocs/mudedi/assets/css/style.css",
+				"/C/xampp/htdocs/caidp.gouv/coeur/modules/accueil/views/accueil_view.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/potentialite_view.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/historique_view.php",
+				"/C/xampp/htdocs/cicg.gouv/coeur/modules/accueil/views/index.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/accueil/views/details_actualite_view.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/apropos_view.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/historique_view",
+				"/C/xampp/htdocs/mudedi/coeur/controllers/apropos.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/reutilisation_user_ajout.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/user/controllers/user.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/reutilisation_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/reutilisation_detail_view.php",
+				"/C/xampp/htdocs/opendata.gouv/includes/properties.php",
+				"/C/xampp/htdocs/mudedi/coeur/config/routes.php",
+				"/C/xampp/htdocs/mudedi/coeur/modules/accueil/views/home_view.php",
+				"/C/xampp/htdocs/mudedi/coeur/modules/accueil/views/inc/script_inc.php",
+				"/C/xampp/htdocs/mudedi/coeur/modules/accueil/views/inc/footer_inc.php",
+				"/C/xampp/htdocs/mudedi/coeur/modules/accueil/views/inc/style_inc.php",
+				"/C/xampp/htdocs/mudedi/coeur/modules/accueil/views/inc/header_inc.php",
+				"/C/xampp/htdocs/opendata.gouv/includes/BD/db_new_090817.sql",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/inc/suggestion_inc.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/inc/style_inc.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/reutilisation_user_ajout2.php",
+				"/C/Users/cicg.local/AppData/Local/Temp/fz3temp-2/style_inc.php",
+				"/C/xampp/htdocs/opendata.gouv/assets/js/script.js",
+				"/C/xampp/htdocs/scash/coeur/modules/accueil/views/home_view.php",
+				"/C/xampp/htdocs/scash/assets/owlcarousel/config.js",
+				"/C/xampp/htdocs/scash/assets/css/style.css",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/home_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/inc/script_inc.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/user/models/user_model.php",
+				"/C/xampp/htdocs/mudedi/coeur/modules/accueil/controllers/accueil.php",
+				"/C/Users/cicg.local/Downloads/CodeIgniter2/coeur/config/autoload.php",
+				"/C/Users/cicg.local/Downloads/CodeIgniter2/coeur/config/database.php",
+				"/C/Users/cicg.local/Downloads/CodeIgniter2/coeur/config/routes.php",
+				"/C/Users/cicg.local/Downloads/CodeIgniter2/includes/env_properties/franck.php",
+				"/C/xampp/htdocs/mudedi/includes/env_properties/franck.php",
+				"/C/Users/cicg.local/Downloads/CodeIgniter2/includes/properties.php",
+				"/C/xampp/htdocs/mudedi/assets/js/vticker.js",
+				"/C/xampp/htdocs/mudedi/assets/css/styles-menu.css",
+				"/C/Users/cicg.local/Downloads/CodeIgniter2/coeur/config/config.php",
+				"/C/Users/cicg.local/Desktop/CAPC_CodeIgniter/.htaccess",
+				"/D/web/gouv/css/style2016.css",
+				"/C/xampp/htdocs/mudedi/assets/css/slippry.css",
+				"/C/Users/cicg.local/Downloads/slippry-1.4.0/demo/index.html",
+				"/C/xampp/htdocs/pipt/index.html",
+				"/C/xampp/htdocs/pipt/js/main.js",
+				"/C/xampp/htdocs/pipt/style.css",
+				"/C/xampp/htdocs/mudedi/coeur/config/autoload.php",
+				"/C/xampp/htdocs/mudedi/coeur/config/config.php",
+				"/C/xampp/htdocs/mudedi/coeur/config/database.php",
+				"/C/xampp/htdocs/mudedi/.gitignore",
+				"/C/xampp/htdocs/pipt/css/main.css",
+				"/C/xampp/htdocs/pipt/css/owl.carousel.css",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/api_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/api/controllers/api.php",
+				"/C/xampp/htdocs/opendata.gouv/assets/css/style.min.css",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/open_data_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/api/models/api_model.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/thematic_details_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/inc/header_inc.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/opendata/controllers/opendata.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/jeux_liste_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/jeux_ajout_view.php",
+				"/C/Users/cicg.local/Downloads/php-client/SwaggerClient-php/test/Api/PetApiTest.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/api_page_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/backend/controllers/backend.php",
+				"/C/xampp/htdocs/cicg_intro/css/style.css",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/donnee/controllers/donnee.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/donnee/models/donnee_model.php",
+				"/C/Users/cicg.local/AppData/Local/Temp/fz3temp-2/index.php",
+				"/C/xampp/htdocs/opendata.gouv/assets/admin/js/plugins/chartjsv2/Chart.bundle.js",
+				"/C/Users/cicg.local/AppData/Local/Temp/fz3temp-2/rest-api.php",
+				"/C/Users/cicg.local/AppData/Local/Temp/fz3temp-2/nav-menu.php",
+				"/C/Users/cicg.local/AppData/Local/Temp/fz3temp-2/template.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/controllers/jeux.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/jeux_de_donnees_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/jeux_de_donnees_detail_view.php",
+				"/C/xampp/htdocs/annuaire.gouv/coeur/modules/accueil/controllers/accueil.php",
+				"/C/xampp/htdocs/cicg_intro/js/init.js",
+				"/C/xampp/htdocs/cicg_intro/js/gmap-settings.js",
+				"/C/xampp/htdocs/cicg_intro/js/plugins.js",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/opendata/models/opendata_model.php",
+				"/C/xampp/htdocs/scash/coeur/modules/accueil/controllers/accueil.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/jeux_recup_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/organisation_liste_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/presentation_ajout_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/presentation_liste_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/presentation_recup_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/profile_liste_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/profile_recup_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/pwd_recup_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/ressource_liste_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/ressource_recup_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/reutilisations_liste_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/thematique_recup_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/views/thematiques_ajout_view.php"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Kadioha",
+					"5.333194",
+					"Projets",
+					"actualite_detail",
+					"village/projet_detail",
+					"details_album.php",
+					"sm-mb-10",
+					"assets/uploads/album1.jpg",
+					"item photo-item",
+					"li",
+					"Projets",
+					"galerie",
+					"2",
+					"4",
+					"jQuery",
+					"projet_detail.php",
+					"type=\"text/javascript\"",
+					"Potentialités",
+					"16",
+					"<div class=\"cover-degrade\">\n                            <h4 class=\"accroche\">SCASH-PAYMENT, <br> l'accès aux services financiers PARTOUT et pour TOUS !</h4>\n                        </div>",
+					"50%",
+					"20%",
+					"-90deg",
+					"5",
+					"0",
+					"jpg",
+					"a.gradian-zone-title",
+					"160",
+					"bord",
+					"2",
+					"15",
+					"m",
+					"margin",
+					"6 col-xs-6",
+					"col-md-6 col-xs-6",
+					"col-md-12",
+					".content-pastille ul",
+					"center",
+					"5",
+					"2",
+					"mb20",
+					"5",
+					"7",
+					"90%",
+					"90deg",
+					"90%",
+					"90",
+					"10%",
+					"bgOverlayOpacity",
+					"phone",
+					"6",
+					"2",
+					"bord",
+					"100x150",
+					"img-represent",
+					"150",
+					"Ouverture de compte",
+					"Lorem ipsum dolor.",
+					"no-reply@data.gouv.ci",
+					"support@data.gouv.ci",
+					"465",
+					"2",
+					"dddddd",
+					"newline",
+					"3",
+					"bottom",
+					"left",
+					"74",
+					"7%",
+					"7",
+					"82,186,93",
+					"140,200,90",
+					"50%",
+					"50",
+					"bord",
+					"col-lg-6",
+					"</strong>",
+					", true",
+					"\"",
+					"captcha",
+					"mail_error",
+					"img",
+					"jQuery",
+					"white-popup-block",
+					"ajax-text-and-image",
+					"jQuery",
+					"4",
+					"fa-folder",
+					"fa fa-file-pdf-o",
+					"3",
+					"bord",
+					"slogan",
+					"en",
+					"val",
+					"0",
+					"Glamorous - Responsive Coming Soon Page",
+					"id_pays",
+					"modif_eglise",
+					"add",
+					"org_detail",
+					"vue",
+					"backbone",
+					"underscore",
+					"<script type=\"text/javascript\" src=\"vendor/jquery/1.7.1/jquery.js\"></script>",
+					"/public/web/recline/",
+					"title",
+					"description",
+					"libel",
+					"descript",
+					"lib",
+					"desc",
+					"titre",
+					"640",
+					"/public/web/recline/",
+					"/public/web/recline/vendor",
+					"wd_remove_accents",
+					"')),",
+					"str",
+					"tag",
+					"TRUE",
+					"reuse_list",
+					"blog",
+					"sql_blog",
+					"Blog",
+					"blog_list",
+					"org_list",
+					"them_list",
+					"10"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 47.0
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"mac",
+						"entreprises\\machine.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 256.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1008.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"h",
+						"height"
+					],
+					[
+						"oh",
+						"ov-h\toverflow: hidden;"
+					],
+					[
+						"str",
+						"strtotime"
+					],
+					[
+						"su",
+						"substr"
+					],
+					[
+						"accu",
+						"accueil_model"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"redi",
+						"redirect\tCI - URL Helper - redirect"
+					],
+					[
+						"accm",
+						"accreditation_model"
+					],
+					[
+						"_po",
+						"_get_post\tCI - $_GET / $_POST"
+					],
+					[
+						"fv",
+						"form_validation\tCI - Form Validation Rule"
+					],
+					[
+						"contr",
+						"contributeurs_model"
+					],
+					[
+						"dbin",
+						"db_insert\tCI - Active Record DB Insert"
+					],
+					[
+						"actuali",
+						"actualite_model"
+					],
+					[
+						"bs3pag",
+						"bs3-pagination\tbs3-pagination"
+					],
+					[
+						"vill",
+						"village_model"
+					],
+					[
+						"acc",
+						"accueil_model"
+					],
+					[
+						"dbr",
+						"db_result\tCI - Active Record DB Result"
+					],
+					[
+						"mo",
+						"model\tCI - Base Model"
+					],
+					[
+						"diaspo",
+						"diaspora_model"
+					],
+					[
+						"upl",
+						"uploads"
+					],
+					[
+						"prp",
+						"prop\t.prop() - single"
+					],
+					[
+						"post",
+						"post"
+					],
+					[
+						"slu",
+						"slugify"
+					],
+					[
+						"id",
+						"idalias"
+					],
+					[
+						"th",
+						"thumbs"
+					],
+					[
+						"fw",
+						"font-weight"
+					],
+					[
+						"min",
+						"ministre_off.png\tw:556 h:730"
+					],
+					[
+						"WI",
+						"width"
+					],
+					[
+						"bs3btn",
+						"bs3-button:info\tbs3-button-info"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"wor",
+						"word-wrap"
+					],
+					[
+						"ech",
+						"echo\tPHTML: <?php echo ... ?>"
+					],
+					[
+						"ec",
+						"echo\tPHTML: <?php echo ... ?>"
+					],
+					[
+						"conr",
+						"construct\tCI - Class Constructor"
+					],
+					[
+						"in",
+						"inc\tPHP: include expression"
+					],
+					[
+						"bordr",
+						"border-radius"
+					],
+					[
+						"boder",
+						"border"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"bck",
+						"background"
+					],
+					[
+						"TRAN",
+						"transition"
+					],
+					[
+						"fs",
+						"font-size"
+					],
+					[
+						"pre",
+						"pre-line"
+					],
+					[
+						"rem",
+						"removeAttr\t.removeAttr()"
+					],
+					[
+						"api",
+						"api_model"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"redire",
+						"redirect_back"
+					],
+					[
+						"im",
+						"image"
+					],
+					[
+						"lis",
+						"list-style-type"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"logo",
+						"logo_intro.png\tw:150 h:84"
+					],
+					[
+						"modif",
+						"modif_eglise"
+					],
+					[
+						"sub",
+						"submit\t.submit()"
+					],
+					[
+						"pro",
+						"prop\t.prop() - single"
+					],
+					[
+						"DB_",
+						"DB_HOST"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"od",
+						"odd.jpg\tw:260 h:28"
+					],
+					[
+						"wh",
+						"width\tAttr"
+					],
+					[
+						"img",
+						"images/"
+					],
+					[
+						"texal",
+						"text-align"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"html",
+						"htmlentities"
+					],
+					[
+						"li",
+						"list-style-type"
+					],
+					[
+						"done",
+						"donnee_model"
+					],
+					[
+						"top",
+						"toppromo.png\tw:150 h:120"
+					],
+					[
+						"borc",
+						"border-color"
+					],
+					[
+						"borderr",
+						"border-radius"
+					],
+					[
+						"pr",
+						"produit-vivrier.png\tw:225 h:225"
+					],
+					[
+						"ma",
+						"maw\tmax-width"
+					],
+					[
+						"hid",
+						"hidden-xs \tBootstrap 3 Class"
+					],
+					[
+						"mate",
+						"m-icon:alert-error\tm-icon-alert-error"
+					],
+					[
+						"load",
+						"load_view\tCI - Load View"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"hidd",
+						"hidden-sm-up \tBootstrap 4 Class"
+					],
+					[
+						"lists",
+						"list-style"
+					],
+					[
+						"overflow",
+						"overflow"
+					],
+					[
+						"tt",
+						"text-transform"
+					],
+					[
+						"col-md",
+						"col-md-6 \tBootstrap 4 Class"
+					],
+					[
+						"borr",
+						"border-right"
+					],
+					[
+						"hmd",
+						"hidden-md-up \tBootstrap 4 Class"
+					],
+					[
+						"tab",
+						"table-responsive \tBootstrap 3 Class"
+					],
+					[
+						"label-D",
+						"label-default \tBootstrap 3 Class"
+					],
+					[
+						"formcon",
+						"form-control \tBootstrap 3 Class"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"A",
+						"Auth::logout\tLog the user out of the application."
+					],
+					[
+						"t",
+						"topalerte.png\tw:188 h:225"
+					],
+					[
+						"btn",
+						"btn-block \tBootstrap 3 Class"
+					],
+					[
+						"con",
+						"construct\tCI - Class Constructor"
+					],
+					[
+						"sess",
+						"session_userdata\tCI - Session - Retrieving Session Data"
+					],
+					[
+						"end",
+						"endif"
+					],
+					[
+						"see",
+						"session_userdata\tCI - Session - Retrieving Session Data"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"rgb",
+						"rgba()"
+					],
+					[
+						"bckc",
+						"background-color"
+					],
+					[
+						"tom",
+						"topmarket.png\tw:100 h:100"
+					],
+					[
+						"to",
+						"topshopping.png\tw:100 h:100"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"fin",
+						"fenacci.png\tw:402 h:100"
+					],
+					[
+						"ngs",
+						"ngser.png\tw:1150 h:250"
+					],
+					[
+						"slid",
+						"slide2.jpg\tw:1920 h:460"
+					],
+					[
+						"Sea",
+						"Search_model"
+					],
+					[
+						"dbli",
+						"db_like\tCI - Active Record DB LIKE"
+					],
+					[
+						"remov",
+						"removeClass\t.removeClass()"
+					],
+					[
+						"rb",
+						"rgba()"
+					],
+					[
+						"jqu",
+						"jQuery.ajax\tjQuery.ajax"
+					],
+					[
+						"att",
+						"attr\t.attr() - single"
+					],
+					[
+						"hi",
+						"hidden-xs \tBootstrap 3 Class"
+					],
+					[
+						"for",
+						"for\tPHP: for statement"
+					],
+					[
+						"Donn",
+						"Donnee_model"
+					],
+					[
+						"pla",
+						"placehold"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"bs3tab",
+						"bs3-table\tbs3-table"
+					],
+					[
+						"ima",
+						"images/"
+					],
+					[
+						"Blo",
+						"Blog_model"
+					],
+					[
+						"Don",
+						"Donnee_model"
+					],
+					[
+						"loa",
+						"load_model\tCI - Load Model"
+					],
+					[
+						"img-",
+						"img-responsive \tBootstrap 3 Class"
+					],
+					[
+						"run",
+						"run_validation\tCI - Run form validation"
+					],
+					[
+						"table",
+						"table-bordered \tBootstrap 4 Class"
+					],
+					[
+						"the",
+						"thematiques_liste"
+					],
+					[
+						"thema",
+						"thematiques_ajout"
+					],
+					[
+						"inc",
+						"inc/"
+					],
+					[
+						"ins",
+						"get_instance"
+					],
+					[
+						"cu",
+						"cur-d\tcursor: default;"
+					],
+					[
+						"border-left",
+						"border-top-left-radius"
+					],
+					[
+						"get",
+						"get_instance\tCI - Assign the CodeIgniter object to a variable"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "/*----------------------------------------------------------*/\n/*              17 - GOOGLE MAPS                             */\n/*----------------------------------------------------------*/\n        if ($('#map').length && jQuery()) {\n            //Initialize Map\n      map = new GMaps({\n        el: '#map',\n        infoWindow: {content: '<p>CAIDP</p>'},\n        lat: 5.380276,\n        lng: -3.992203,\n        zoomControl : false,\n        zoomControlOpt: {\n            style : 'SMALL',\n            position: 'TOP_LEFT'\n        },\n        backgroundColor:'#1d4997',\n         markers: [\n            {lat: 5.380276, lng: -3.992203},\n            {lat: 5.380276, lng: -3.992203},\n            {lat: 5.380276, lng: -3.992203}\n        ],\n        panControl : false,\n        streetViewControl : false,\n        mapTypeControl: false,\n        overviewMapControl: false,\n        \n      });\n      // Add a random mark\n      setTimeout( function(){\n          map.addMarker({\n                  infoWindow: {content: '<p><strong>CAIDP</strong><br> Abidjan - Cocody II Plateaux Aghien.<br> <a href=\"http://www.caidp.ci\">www.caidp.ci</a> <br>Tel: +225  22 50 17 14<br> Fax: +225 22 50 22 57 <br> 06 BP 2542 Abidjan 06 </p>'},\n                  lat: 5.380276,\n                  lng: -3.992203,\n                  animation: google.maps.Animation.DROP,\n                  draggable:false,\n                  title: 'CAIDP',\n                  \n                  \n          });\n      },3000);\n       \n      $(\"#map-zoom-out\").click(function() {\n         map.zoomOut(1);          \n      });\n      \n      $(\"#map-zoom-in\").click(function() {\n        map.zoomIn(1);    \n      });\n    }",
+					"settings":
+					{
+						"buffer_size": 1656,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/web/gouv/css/style.css",
+					"settings":
+					{
+						"buffer_size": 17577,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/web/gouv/Main3.php",
+					"settings":
+					{
+						"buffer_size": 54368,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/plugin/slider-pro-master/examples/example5.html",
+					"settings":
+					{
+						"buffer_size": 8942,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/web/gouv/js/custom.js",
+					"settings":
+					{
+						"buffer_size": 18807,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/web/gouv/_jscss.php",
+					"settings":
+					{
+						"buffer_size": 4102,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/web/gouv/_jsbas.php",
+					"settings":
+					{
+						"buffer_size": 1872,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/web/gouv/_jsbas3.php",
+					"settings":
+					{
+						"buffer_size": 1942,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/caidp.gouv/coeur/modules/accueil/views/accueil_view.php",
+					"settings":
+					{
+						"buffer_size": 13363,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "/* ---------------------------------------------------- */\n    /*  slider pro                                  */\n/* ---------------------------------------------------- */\n$('#example5').sliderPro({\n            width: 800,\n            height: 400,\n            orientation: 'vertical',\n            loop: false,\n            arrows: false,\n            buttons: false,\n            thumbnailsPosition: 'right',\n            thumbnailPointer: true,\n            thumbnailWidth: 150,\n            breakpoints: {\n                800: {\n                    thumbnailsPosition: 'bottom',\n                    thumbnailWidth: 270,\n                    thumbnailHeight: 100\n                },\n                500: {\n                    thumbnailsPosition: 'bottom',\n                    thumbnailWidth: 120,\n                    thumbnailHeight: 50\n                }\n            }\n        });\n",
+					"settings":
+					{
+						"buffer_size": 875,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "upp",
+				"selected_items":
+				[
+					[
+						"upp",
+						"Convert Case: Upper Case"
+					],
+					[
+						"col",
+						"Convert Case: Lower Case"
+					],
+					[
+						"comm",
+						"Toggle Comment"
+					],
+					[
+						"UPP",
+						"Convert Case: Upper Case"
+					],
+					[
+						"syn",
+						"Set Syntax: PHP"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"inp",
+						"Package Control: Install Package"
+					],
+					[
+						"colo",
+						"Color Picker"
+					],
+					[
+						"co",
+						"Color Picker"
+					],
+					[
+						"syb",
+						"Set Syntax: Batch File"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"lo",
+						"Convert Case: Lower Case"
+					],
+					[
+						"c",
+						"Color Picker"
+					],
+					[
+						"sy",
+						"Set Syntax: PHP"
+					],
+					[
+						"termin",
+						"Terminal: Open"
+					],
+					[
+						"ter",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"pc",
+						"Package Control: Install Package"
+					],
+					[
+						"SYN",
+						"Set Syntax: PHP"
+					],
+					[
+						"low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"LO",
+						"Convert Case: Lower Case"
+					],
+					[
+						"sly",
+						"Set Syntax: Lisp"
+					],
+					[
+						"bs3",
+						"Snippet: bs3-modal"
+					],
+					[
+						"bs3form",
+						"Snippet: bs3-form"
+					],
+					[
+						"bs3for",
+						"Snippet: bs3-form"
+					],
+					[
+						"bs",
+						"Bookmarks: Select All"
+					],
+					[
+						"bs3htm",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"bs3mo",
+						"Snippet: bs3-modal"
+					],
+					[
+						"bs3html",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"matefo",
+						"Snippet: Materialize form"
+					],
+					[
+						"syncss",
+						"Set Syntax: CSS"
+					],
+					[
+						"synjava",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syntj",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ordepar",
+						"Origami: Destroy Pane on the Right"
+					],
+					[
+						"orcrpanr",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"ordepanle",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"orcrpanlef",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"ordestpanl",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"ori",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"synph",
+						"Set Syntax: PHP"
+					],
+					[
+						"syntja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"rep",
+						"Package Control: Remove Package"
+					],
+					[
+						"oridesto",
+						"Origami: Destroy Pane Above"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"pal",
+						"Package Control: List Packages"
+					],
+					[
+						"or",
+						"Origami: Destroy Pane Below"
+					],
+					[
+						"cp",
+						"Color Picker"
+					],
+					[
+						"colp",
+						"Color Picker"
+					],
+					[
+						"up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"cofl",
+						"Snippet: container_fluid"
+					],
+					[
+						"IP",
+						"Package Control: Install Package"
+					],
+					[
+						"align",
+						"Snippet: alignement"
+					],
+					[
+						"remp",
+						"Package Control: Remove Package"
+					],
+					[
+						"lip",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"Install Package Control"
+					],
+					[
+						"insp",
+						"Install Package Control"
+					]
+				],
+				"width": 885.0
+			},
+			"console":
+			{
+				"height": 190.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/web/gouv"
+			],
+			"file_history":
+			[
+				"/D/web/gouv/Main3.php",
+				"/D/web/gouv/css/responsive.css",
+				"/D/web/gouv/Main.php",
+				"/D/web/gouv/_header.php",
+				"/D/web/gouv/Connections/gouv1.php",
+				"/C/xampp/htdocs/annuaire.gouv/coeur/modules/accueil/views/contact_view.php",
+				"/C/xampp/htdocs/caidp.gouv/coeur/modules/accueil/views/contact_view.php",
+				"/C/xampp/htdocs/caidp.gouv/coeur/modules/accueil/views/caidp_view.php",
+				"/C/xampp/htdocs/caidp.gouv/coeur/modules/accueil/views/ri_view.php",
+				"/C/xampp/htdocs/caidp.gouv/coeur/modules/accueil/controllers/accueil.php",
+				"/C/xampp/htdocs/caidp.gouv/coeur/modules/accueil/views/accueil_view.php",
+				"/C/xampp/htdocs/caidp.gouv/coeur/modules/accueil/models/home_model.php",
+				"/C/xampp/htdocs/annuaire.gouv/coeur/modules/accueil/views/accueil_view.php",
+				"/C/xampp/htdocs/annuaire.gouv/coeur/modules/accueil/views/liste_institution_view.php",
+				"/C/xampp/htdocs/caidp.gouv/assets/js/custom.js",
+				"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+				"/C/xampp/htdocs/caidp.gouv/assets/css/style.css",
+				"/C/xampp/htdocs/caidp.gouv/coeur/modules/accueil/views/templates/header_inc.php",
+				"/C/xampp/htdocs/caidp.gouv/coeur/modules/accueil/views/templates/footer_inc.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/allviews/views/contact_view.php",
+				"/C/xampp/htdocs/caidp.gouv/coeur/modules/accueil/views/templates/txt_juridic_inc.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/accueil/controllers/accueil.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/accueil/views/details_actualite_view.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/accueil/models/accueil_model.php",
+				"/C/xampp/htdocs/agriculture.gouv/assets/filemanager/config/config.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/administration/views/ajout_activite_view.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/administration/views/ajout_actu_view.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/accueil/views/accueil_view.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/config/config.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/administration/controllers/actualite.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/administration/views/modif_actu_view.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/administration/views/liste_actu_view.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/dashboard/controllers/blog.php",
+				"/C/xampp/htdocs/javascript/main.js",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/backend/controllers/backend.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/blog/controllers/blog.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/administration/controllers/structure.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/accueil_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/controllers/accueil.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/models/home_model.php",
+				"/C/xampp/htdocs/agriculture.gouv/assets/css/style.css",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/administration/views/liste_agenda_view.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/administration/views/ajout_agenda_view.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/administration/controllers/agenda.php",
+				"/C/Users/cicg.local/Desktop/db_agri.sql",
+				"/C/xampp/htdocs/opendata.gouv/coeur/libraries/Recaptcha.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/modules/contact/controllers/contact.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/config/config.php",
+				"/C/xampp/htdocs/opendata.gouv/coeur/config/recaptcha.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/accueil/views/template/footer_inc.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/accueil/views/template/header_inc.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/accueil/views/template/style_inc.php",
+				"/C/xampp/htdocs/agriculture.gouv/coeur/modules/administration/controllers/dossier.php",
+				"/C/xampp/htdocs/javascript/index.php",
+				"/C/xampp/htdocs/agriculture.gouv/assets/css/styles-menu.css",
+				"/C/xampp/htdocs/agriculture.gouv/assets/js/script.js",
+				"/C/xampp/htdocs/agriculture.gouv/assets/js/script-menu.js",
+				"/D/Projets/Anthony Welc/javascript/main.js",
+				"/D/Projets/Anthony Welc/javascript/index.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/administration/views/ajout_page_view.php",
+				"/C/xampp/htdocs/defense.gouv/assets/filemanager/config/config.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/administration/views/modif_page_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/administration/views/modif_operation_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/administration/views/modif_journee_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/administration/views/modif_agenda_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/administration/views/modif_actu_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/administration/views/modif_action_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/administration/views/modif_stage_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/role_mission_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/accreditations_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/interlocuteurs_view.php",
+				"/C/Users/cicg.local/AppData/Local/Temp/fz3temp-2/index.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/presse/controllers/presse.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/presse/models/presse_model.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/administration/controllers/accreditation.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/recherche/controllers/recherche.php",
+				"/C/Users/cicg.local/Downloads/accreditation.sql",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/actualite/controllers/actualite.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/culture/controllers/culture.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/defense/controllers/defense.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/mediatheque/controllers/mediatheque.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/ministere/controllers/ministere.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/operation/controllers/operation.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/administration/views/ajout_accreditation_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/armee_air_view.php",
+				"/C/xampp/htdocs/opendata.gouv/assets/admin/js/plugins/ckeditor/ckeditor.js",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/administration/views/theme/menu_admin.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/administration/views/liste_accreditation_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/administration/models/accreditation_model.php",
+				"/C/xampp/htdocs/defense.gouv/index.php",
+				"/C/Users/cicg.local/AppData/Local/Temp/fz3temp-2/accreditations_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/carriere_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/condiditions_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/contact_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/details_action_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/details_actu_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/details_agenda_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/details_journee_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/details_operation_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/doctrines_strategies_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/ecoles_gendarmerie_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/ecoles_militaires_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/environnement_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/forces_speciales_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/gendarmerie_mobile_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/gendarmerie_territoriale_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/guide_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/histoire_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/honneur_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/iesd_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/marine_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/organisation_mission_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/partenaires_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/pelerinages_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/pension_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/presentation_ministre_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/prevoyance_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/promotion_genre_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/publication_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/restructuration_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/retraite_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/role_defense_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/soutien_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/unites_specialisees_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/vision_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/webdoc_view.php",
+				"/C/xampp/htdocs/defense.gouv/coeur/modules/accueil/views/armee_terre_view.php",
+				"/C/xampp/htdocs/mudedi/coeur/views/detail_actualite_view.php"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 136.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"function",
+					"\"",
+					"HtmlToText",
+					"Things",
+					"http_build_query",
+					"site_verify_url",
+					"col-md-6",
+					"20px",
+					"2",
+					"i",
+					"12",
+					"type",
+					"Type",
+					"type",
+					"Lorem ipsum",
+					"liste_page",
+					"phone",
+					"organe",
+					"prenom",
+					"nom",
+					"libel_stage",
+					"page",
+					"button",
+					"domaine",
+					"fieldname",
+					"id",
+					"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+					"mediatheque_model",
+					"<strong>",
+					"femme",
+					"Femme",
+					"femme",
+					"contenu",
+					"titre",
+					"actualite",
+					"actu",
+					"actualite",
+					"image",
+					"liste_actu",
+					"Actualité",
+					"Actualités",
+					"pantheon",
+					"contenu",
+					"titre",
+					"Photo",
+					"pantheon",
+					"pantheon_ajout_view",
+					"pantheon",
+					"slide_panth",
+					"add_pantheon",
+					"Pantheon_model",
+					"pantheon_model",
+					"titre",
+					"500",
+					"1000",
+					"liste_diaspora",
+					"partenaire",
+					"liste_slide",
+					"slide",
+					"Bannière",
+					"bannières",
+					"Bannière",
+					"slide",
+					"pantheon_panth",
+					"slide",
+					"slide_model",
+					"actualité",
+					"d'une actualité",
+					"actualités",
+					"liste_slide",
+					"actualite",
+					"actu",
+					"Actualité",
+					"actualités",
+					"actualite",
+					"actualite_model",
+					"actualite",
+					"slide",
+					"projet",
+					"actualite",
+					"actu",
+					"actualité",
+					"Actualité",
+					"actualite",
+					"actualite_model",
+					"actualite",
+					"email",
+					"contributeurs",
+					"id_partenaire",
+					"partenaire",
+					"lien_partenaire",
+					"partenaire",
+					"nom_partenaire",
+					"activite",
+					"lien_partenaire",
+					"nom_partenaire",
+					"id_flashinfo",
+					"titre_flashinfo",
+					"id_flashinfo",
+					"date_ajout_flashinfo",
+					"titre_flashinfo",
+					"alias_flashinfo",
+					"id_flashinfo",
+					"contenu_page",
+					"id_page",
+					"titre_page",
+					"id_page",
+					"id",
+					"id_page",
+					"date_ajout_page",
+					"contenu_page",
+					"titre_page",
+					"contenu_page",
+					"titre_page",
+					"id_page",
+					"url_title",
+					"alias_page",
+					"contenu_page",
+					"titre_page",
+					", 'dash', true",
+					"url_title",
+					"titre_cat_media",
+					"contenu_actualite",
+					"id_actualite",
+					"titre_actualite",
+					"id_actualite",
+					"contenu_actualite",
+					"titre_actualite"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\xampp\\htdocs\\caidp.gouv"
+				},
+				{
+					"path": "D:\\web\\gouv"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\agriculture.gouv"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\javascript"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\mudedi"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\opendata.gouv"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\defense.gouv"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\cicg.gouv"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\communication.gouv"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\scash"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\pipt"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\cicg_intro"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\megvie"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\annuaire.gouv"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 7,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1656,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										400,
+										400
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												873,
+												874
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												285,
+												286
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"default_dir": "C:\\xampp\\htdocs\\caidp.gouv",
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/web/gouv/css/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17577,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8336,
+										8336
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												8453,
+												8454
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												8193,
+												8194
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6158.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/web/gouv/Main3.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 54368,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5530,
+										5552
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/php-grammar/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3544.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/plugin/slider-pro-master/examples/example5.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8942,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5968,
+										5968
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3834.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/web/gouv/js/custom.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18807,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										15536,
+										15536
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 13153.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/web/gouv/_jscss.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4102,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3388,
+										3388
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												3410,
+												3411
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												3387,
+												3388
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/php-grammar/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1004.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/web/gouv/_jsbas.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1872,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										179,
+										179
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/php-grammar/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/web/gouv/_jsbas3.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1942,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										117,
+										117
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												110,
+												116
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												49,
+												55
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/php-grammar/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/xampp/htdocs/caidp.gouv/coeur/modules/accueil/views/accueil_view.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13363,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1078,
+										1078
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1079,
+												1080
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1078,
+												1079
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/php-grammar/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 686.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 875,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										365,
+										365
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												871,
+												872
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												198,
+												199
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"default_dir": "C:\\xampp\\htdocs\\caidp.gouv",
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 26.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 48.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,728,0,68,1024",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"gouv1",
+						"gouv\\Connections\\gouv1.php"
+					],
+					[
+						"_her",
+						"gouv\\_header.php"
+					],
+					[
+						"mac",
+						"entreprises\\machine.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 169.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 21,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

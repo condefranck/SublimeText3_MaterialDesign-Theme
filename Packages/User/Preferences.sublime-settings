@@ -7,9 +7,10 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 14,
+	"font_size": 13,
 	"ignored_packages":
 	[
+		"PHP",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -28,11 +29,11 @@
 	"material_theme_accent_indigo": false,
 	"material_theme_accent_lime": false,
 	"material_theme_accent_orange": false,
-	"material_theme_accent_pink": false,
-	"material_theme_accent_purple": true,
+	"material_theme_accent_pink": true,
+	"material_theme_accent_purple": false,
 	"material_theme_accent_red": false,
 	"material_theme_accent_scrollbars": true,
-	"material_theme_accent_sky": false,
+	"material_theme_accent_sky": true,
 	"material_theme_accent_tomato": false,
 	"material_theme_accent_yellow": false,
 	"material_theme_appbar_blue": false,
@@ -42,7 +43,7 @@
 	"material_theme_appbar_lime": false,
 	"material_theme_appbar_orange": false,
 	"material_theme_appbar_pink": false,
-	"material_theme_appbar_purple": true,
+	"material_theme_appbar_purple": false,
 	"material_theme_appbar_red": false,
 	"material_theme_appbar_yellow": false,
 	"material_theme_arrow_folders": false,
